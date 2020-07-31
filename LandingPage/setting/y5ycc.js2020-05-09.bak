@@ -1,0 +1,103 @@
+var configName = 'y5y.cc';
+var themeName = '7';
+var ipToUrl ='y5y.cc'
+var ver = '20200408_1';
+
+var setting = {
+  'y5y.cc': {
+    name: '易发', icon: true, agent: '210001', appKey: 'vgp8va',
+    finger: 'yf', ios: 'open', android: 'self', h5: 'https://tianhaoh5.yanqingwenwan.com/yf_191010/',
+    online: 'https://trace.chatazure.com/chat/Hotline/channel.jsp?cid=5008885&cnfid=5082&j=3639659656&s=1',
+    QQandroidDownload:'https://download8868.oss-cn-shenzhen.aliyuncs.com/BuildPackage/22202002.apk'
+  }
+};
+var extensions = {
+  '1333786.com': {
+    agent: '468585',
+  },
+    '18187.cc': {
+    agent: '468585',
+  },
+    '8zl.net': {
+    agent: '538924',
+  },
+    '9lh.net': {
+    agent: '538924',
+  },
+  '2pt9.com': {
+    agent: '538924',
+  },
+  'i8f0.com': {
+    agent: '538924',
+  },
+  '8h81.com': {
+    agent: '468585',
+  },
+  'n2y6.com': {
+    agent: '468585',
+  },
+
+    '9lz.net': {
+    agent: '538924',
+  },
+    '777.tl': {
+    agent: '538924',
+  },
+    '999.gl': {
+    agent: '538924',
+  },
+  '38k.cc': {
+    agent: '468585',
+  },
+  'g74.net': {
+    agent: '468585',
+  },
+  '555.ht': {
+    agent: '468585',
+  },
+  '666.ht': {
+    agent: '468585',
+  },
+
+    '7wn.net': {
+    agent: '538924',
+  },
+  '00.hn': {agent: '538924'},
+  '00.ht': {agent: '538924'},
+  '00.je': {agent: '538924'},
+  '111.ec': {agent: '538924'},
+  '111.gy': {agent: '538924'},
+  '111.hn': {agent: '538924'},
+  '111.ht': {agent: '538924'},
+  '111.je': {agent: '538924'},
+  '111.mn': {agent: '538924'},
+  '111.sh': {agent: '538924'},
+  '222.ec': {agent: '538924'},
+  '222.gy': {agent: '538924'},
+  '222.ht': {agent: '538924'},
+  '222.je': {agent: '538924'},
+  '222.mn': {agent: '538924'},
+  '333.ec': {agent: '538924'},
+  '333.gd': {agent: '538924'},
+  '333.gy': {agent: '538924'},
+  '333.hn': {agent: '538924'},
+  '333.ht': {agent: '538924'},
+  '2yf.cc': {
+    ios: 'https://ios.z92b0.com/qmol',
+  },
+ 'y3y.cc': {
+    ios: 'https://ios.z92b0.com/qmol',
+  },
+
+  'fg8.net': {
+    ios: 'https://ios.z92b0.com/qmol',
+  },
+  'y5y.cc': {
+    ios: 'https://ios.z92b0.com/qmol',
+  },
+};
+
+var cnzz = {
+  '1333786.com':'1278582036',
+  'y5y.cc':'1278679770',
+};

@@ -1,0 +1,59 @@
+<div class="max_width">
+  <div class="banner"> <img class="lazyload" special-src="topbg.jpg" alt=""> </div>
+  <div class="btn"> <a  class="android myd_btn" title="android进入体验" onclick="downloadGame(1)"> <img class="lazyload" theme-src="an_btn.png" alt="android进入体验" /> </a> <a  class="ios myd_btn" title="ios进入体验"  alt="ios进入体验"  onclick="downloadGame(2)"/> <img class="lazyload" theme-src="ios_btn.png"> </a> </div>
+  <!-- nav -->
+  <div class="nav">
+    <div class="nav_img"> <img class="lazyload" theme-src="nav.jpg" alt=""></div>
+    <div class="gamelist">
+      <ul>
+        <li> <a href="javascript:;"><img class="lazyload" theme-src="game1_03.jpg" alt=""></a> </li>
+        <li> <a href="javascript:;"><img class="lazyload" theme-src="game2_03.jpg" alt=""></a> </li>
+        <li> <a href="javascript:;"><img class="lazyload" theme-src="game3_03.jpg" alt=""></a> </li>
+        <li> <a href="javascript:;"><img class="lazyload" theme-src="game4_03.jpg" alt=""></a> </li>
+        <li> <a href="javascript:;"><img class="lazyload" theme-src="game5_03.jpg" alt=""></a> </li>
+        <li> <a href="javascript:;"><img class="lazyload" theme-src="game6_03.jpg" alt=""></a> </li>
+        <li> <a href="javascript:;"><img class="lazyload" theme-src="game7_03.jpg" alt=""></a> </li>
+        <li> <a href="javascript:;"><img class="lazyload" theme-src="game8_03.jpg" alt=""></a> </li>
+      </ul>
+    </div>
+  </div>
+  <!-- banner -->
+  <div class="game_banner">
+    <div class="game_banner_content">
+      <h1>下载手机APP</h1>
+      <p>注册首存最高送<i>888</i><em>元</em></p>
+      <p>诚招代理让您月入<i>百万！</i></p>
+      <p>用户评分：</p>
+      <div class="icon"> <img class="lazyload" theme-src="xingxing.png" alt=""></div>
+    </div>
+  </div>
+  <!-- 游戏介绍 -->
+  <div class="game_introduce">
+    <div class="introduce_box">
+      <ul>
+        <li><img class="lazyload" theme-src="game1_03.jpg" alt=""> <img class="lazyload" theme-src="biggame1.jpg" alt=""> </li>
+        <li><img class="lazyload" theme-src="game2_03.jpg" alt=""> <img class="lazyload" theme-src="biggame2.jpg" alt=""> </li>
+        <li><img class="lazyload" theme-src="game3_03.jpg" alt=""> <img class="lazyload" theme-src="biggame3.jpg" alt=""> </li>
+        <li><img class="lazyload" theme-src="game4_03.jpg" alt=""> <img class="lazyload" theme-src="biggame4.jpg" alt=""> </li>
+        <li><img class="lazyload" theme-src="game5.jpg" alt=""> <img class="lazyload" theme-src="biggame5.jpg" alt=""> </li>
+      </ul>
+    </div>
+  </div>
+  <div class="footer">
+    <div class="footer_top"><img class="lazyload" theme-src="foot_02.jpg" alt=""></div>
+    <div class="footer_end"><img class="lazyload" theme-src="foot2_03.jpg" alt=""></div>
+  </div>
+  
+ <div class="d_down">
+  <div class="down_ico">
+    <div class="ico_img"> <img class="lazyload" special-src="icon.png" alt="哈哈棋牌"> </div>
+  </div>
+  <div class="down_title">
+    <div class="titleh3">哈哈棋牌</div>
+    <div class="titlespan">少妇云集，好玩刺激</div>
+  </div>
+  <a class="gobotton down myd_btn" onclick="downloadGame(0)">立即下载</a> </div>
+</div>
+
+<!--客服-->
+<div class="kf"> <a id="online_service" target="_blank" href="#"> <img class="lazyload" theme-src="kefu.png"> </a> </div>

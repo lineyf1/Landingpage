@@ -1,0 +1,12 @@
+img{width:100%;height: 99%;display: block;}
+.hraderImg{height: 96%}
+.head .logo {
+    width: 1.26rem;
+    height: 90%;
+    left: .28rem;
+}
+.buttonDown img{
+	width: 96%;
+    left: 5%;
+    position: relative;
+}

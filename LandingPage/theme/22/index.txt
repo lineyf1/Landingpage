@@ -1,0 +1,263 @@
+<div id="app">
+  <div class="banner">
+    <div class="top"> <img class="lazyload" special-src="banner_01.jpg" alt="banner"><img class="lazyload" special-src="banner_02.jpg" alt="banner"> <img class="lazyload" onclick="install()" theme-src="banner_03.jpg" alt="banner"> </div>
+  </div>
+  <div class="slider"> <div id="slider">
+      <div id="certify">
+        <div class="swiper-container">
+          <div class="swiper-wrapper">
+            <div class="swiper-slide"><img class="lazyload" theme-src="slider1.png" /></div>
+            <div class="swiper-slide"><img class="lazyload" theme-src="slider2.png" /></div>
+            <div class="swiper-slide"><img class="lazyload" theme-src="slider3.png" /></div>
+            <div class="swiper-slide"><img class="lazyload" theme-src="slider4.png" /></div>
+            <div class="swiper-slide"><img class="lazyload" theme-src="slider5.png" /></div>
+          </div>
+        </div>
+      </div>
+    </div>   <img class="lazyload" special-src="foot1.jpg" alt="" /><img class="lazyload" theme-src="foot2.jpg" alt="" /><img class="lazyload" theme-src="foot3.jpg" alt="" /><img class="lazyload" theme-src="foot4.jpg" alt="" /><img class="lazyload" theme-src="foot5.jpg" alt="" />
+    <img class="lazyload" theme-src="foot6.jpg" alt="" />
+    <img class="lazyload" theme-src="foot7.jpg" alt="" />
+    <img class="lazyload" theme-src="foot8.jpg" alt="" />
+    <img class="lazyload" theme-src="foot9.jpg" alt="" />
+    <img class="lazyload" theme-src="foot10.jpg" alt="" />
+    <img class="lazyload" theme-src="foot11.jpg" alt="" />
+  </div>
+  <div class="daili_box">
+    <img class=" lazyloaded lazyload" alt="返佣结算表" theme-src="daili.png">
+     <div class="table-a">
+      <table class="rankTable" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+
+          <td>代理级别</td>
+          <td>团队业绩/日</td>
+          <td>返佣额度</td>
+        </tr>
+        <tr>
+
+          <td>会员级</td>
+          <td>1+</td>
+          <td>每万返75元</td>
+        </tr>
+        <tr>
+
+          <td>代理V1</td>
+          <td>1.00万+</td>
+          <td>每万返80元</td>
+        </tr>
+        <tr>
+
+          <td>代理V2</td>
+          <td>5.00万+</td>
+          <td>每万返85元</td>
+        </tr>
+        <tr>
+
+          <td>代理V3</td>
+          <td>10.00万+</td>
+          <td>每万返90元</td>
+        </tr>
+        <tr>
+
+          <td>代理V4</td>
+          <td>15.00万+</td>
+          <td>每万返95元</td>
+        </tr>
+        <tr>
+
+          <td>代理V5</td>
+          <td>20.00万+</td>
+          <td>每万返100元</td>
+        </tr>
+        <tr>
+
+          <td>代理V6</td>
+          <td>40.00万+</td>
+          <td>每万返105元</td>
+        </tr>
+        <tr>
+
+          <td>代理V7</td>
+          <td>60.00万+</td>
+          <td>每万返110元</td>
+        </tr>
+        <tr>
+
+          <td>代理V8</td>
+          <td>80.00万+</td>
+          <td>每万返115元</td>
+        </tr>
+        <tr>
+
+          <td>代理V9</td>
+          <td>100.00万+</td>
+          <td>每万返120元</td>
+        </tr>
+        <tr>
+
+          <td>代理V10</td>
+          <td>150.00万+</td>
+          <td>每万返125元</td>
+        </tr>
+
+        <tr>
+
+          <td>代理V11</td>
+          <td>200.00万+</td>
+          <td>每万返130元</td>
+        </tr>
+        <tr>
+
+          <td>代理V12</td>
+          <td>250.00万+</td>
+          <td>每万返135元</td>
+        </tr>
+        <tr>
+
+          <td>代理V13</td>
+          <td>300.00万+</td>
+          <td>每万返140元</td>
+        </tr>
+        <tr>
+
+          <td>代理V14</td>
+          <td>350.00万+</td>
+          <td>每万返145元</td>
+        </tr>
+        <tr>
+
+          <td>代理V15</td>
+          <td>400.00万+</td>
+          <td>每万返150元</td>
+        </tr>
+        <tr>
+
+          <td>代理V16</td>
+          <td>500.00万+</td>
+          <td>每万返155元</td>
+        </tr>
+        <tr>
+
+          <td>代理V17</td>
+          <td>600.00万+</td>
+          <td>每万返160元</td>
+        </tr>
+        <tr>
+
+          <td>代理V18</td>
+          <td>700.00万+</td>
+          <td>每万返165元</td>
+        </tr>
+        <tr>
+
+          <td>代理V19</td>
+          <td>800.00万+</td>
+          <td>每万返170元</td>
+        </tr>
+        <tr>
+
+          <td>代理V20</td>
+          <td>1000.00万+</td>
+          <td>每万返175元</td>
+        </tr>
+        <tr>
+
+          <td>代理V21</td>
+          <td>1200.00万+</td>
+          <td>每万返180元</td>
+        </tr>
+        <tr>
+
+          <td>代理V22</td>
+          <td>1400.00万+</td>
+          <td>每万返185元</td>
+        </tr>
+        <tr>
+
+          <td>代理V23</td>
+          <td>1600.00万+</td>
+          <td>每万返190元</td>
+        </tr>
+        <tr>
+
+          <td>代理V24</td>
+          <td>1800.00万+</td>
+          <td>每万返195元</td>
+        </tr>
+        <tr>
+
+          <td>代理V25 </td>
+          <td>2000.00万+</td>
+          <td>每万返200元</td>
+        </tr>
+      </tbody></table>
+      </div>
+
+      <div class="txt">
+      <div class="tit">业绩如何计算：</div><div class="cont">业绩是指推广玩家的流水情况，比如您推广一个玩家，他一把赢1000，一把输800，那么他给您带来的的业绩为1800元。</div></div>
+      <div class="txt">
+      <div class="tit">佣金多久结算：</div><div class="cont">采用日结模式，每日24：00计算
+                        当天佣金，业绩达到多少按佣金
+                        表发放，可在代理页面领取已发
+                        放佣金。</div></div>
+      <div class="txt">
+      <div class="tit">直&nbsp;&nbsp;营&nbsp;&nbsp;业&nbsp;&nbsp;绩：</div><div class="cont">是指玩家直接扫描您的二维码进行
+
+                        游戏，所产生的业绩均为您个人
+                        直属业绩。</div></div>
+
+    </div>
+  <div class="bottomBar">
+    <div class="inner">
+        <div class="iconBox">
+          <img class="ls-is-cached lazyload" special-src="icon.png">
+        </div>
+        <dl class="gameInfo">
+        <span class="myAppName">哈哈游戏</span>第一门户官方网<span id="mySide">www.ha9.net</span><span id="rewardNum"></span>
+      </dl>
+
+      <div class="btnBox go">
+        <a class="btnDownload2 btnt myd_btn" onclick="downloadGame(2);" target="_blank">ios下载</a>
+      </div>
+      <div class="btnBox go">
+        <a class="btnDownload2 btnt myd_btn android_down" onclick="downloadGame(1);" target="_blank">安卓下载</a>
+      </div>
+    </div>
+  </div>
+  <div class="service">
+    <a id="online_service" target="_blank"></a>
+    <div class="exit"></div>
+    <a id="fixtool" onclick="tofixtool()"><img class=" ls-is-cached lazyload" width="100%" height="auto" theme-src="fixtool.png"></a>
+  </div>
+
+  <a id="online_service" target="_blank" href="#"> <img class="lazyload" theme-src="kf.png"></a> </div>
+  <div class="toast-message">
+    <div id="close-message">安装包准备中...</div>
+  </div>
+  <div class="window_log2">
+    <div>
+      <div class="installTitle">
+        <div>安卓报毒解决办法</div>
+        <div onclick="cancelInstall()">x</div>
+      </div>
+      <div class="installList">
+        <ul class="window_hint2">
+          <li> <img class="lazyload" theme-src="install_1.png" alt="加载失败">
+            <p>1.	打开桌面“设置”菜单</p>
+          </li>
+          <li> <img class="lazyload" theme-src="install_2.png" alt="加载失败">
+            <p>2.	选择“安全与隐私”进行设置</p>
+          </li>
+          <li> <img class="lazyload" theme-src="install_3.png" alt="加载失败">
+            <p>3.	选择“更多安全设置”</p>
+          </li>
+          <li> <img class="lazyload" theme-src="install_4.png" alt="加载失败">
+            <p>4.	在“禁止安装恶意应用出”选择关闭</p>
+          </li>
+          <li> <img class="lazyload" theme-src="install_5.png" alt="加载失败">
+            <p>5.	弹出提示，选择“关闭”</p>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>

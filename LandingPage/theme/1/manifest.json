@@ -1,0 +1,10 @@
+{
+    "css": [
+            "style"
+    ],
+    "js": [
+            "pub",
+            "jquery.min",
+            "script"
+    ]
+}

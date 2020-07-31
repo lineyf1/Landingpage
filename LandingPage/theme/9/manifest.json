@@ -1,0 +1,13 @@
+{
+  "css": [
+    "main",
+    "page1"
+  ],
+  "js": [
+      "jquery",
+      "main",
+      "pub",
+      "util",
+      "script"
+  ]
+}

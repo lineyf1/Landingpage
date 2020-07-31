@@ -1,0 +1,12 @@
+{
+        "css": [
+                "swiper.4.3.3.min",
+                "qp_style"
+        ],
+        "js": [
+                "jquery-2.1.4",
+                "swiper.4.3.3.min",
+                "rem",
+                "script"
+        ]
+}

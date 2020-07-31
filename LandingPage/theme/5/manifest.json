@@ -1,0 +1,10 @@
+{
+  "css": [
+      "style"
+  ],
+  "js": [
+      "clipboard.min",
+      "main",
+      "script"
+  ]
+}

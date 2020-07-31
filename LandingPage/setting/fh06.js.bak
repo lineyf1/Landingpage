@@ -1,0 +1,12 @@
+var configName = 'fh06.vip';
+var themeName = '15';
+var ipToUrl = 'fh06.vip'
+var ver = '20200310_6';
+
+var setting = {
+  'fh06.vip': {
+    name: '大富豪', icon: false, agent: '1003004', appKey: 'wya71f',
+    finger: 'dfh', ios: 'https://zxshiji.com/app/5efb502309ffd',android: 'open',
+    online: 'https://1106faa72112b.chatnow.mstatik.com/widget/standalone.html?eid=227491',
+  }
+};

@@ -1,0 +1,220 @@
+
+<div class="main">
+   
+  <div class="boot"> <a href="javascript:;"> <img  class="lazyload" special-src="top1.png" alt=""></a> </div>
+  <a href="javascript:;"> <img  class="lazyload" theme-src="bg1.jpg" alt=""></a> <a href="javascript:;"> <img  class="lazyload" theme-src="bg2.jpg" alt=""></a>
+  <div class="btn_bg">
+     <div class="btn"> <a href="#" class="myd_btn" onclick="downloadGame(2)"><img class="lazyload " theme-src="ios.png" alt="" ></a> <a href="#" onclick="downloadGame(1)" class="myd_btn"><img class="lazyload" theme-src="az.png" alt=""></a> </div>
+  </div>
+  <div class="icon_bg">
+    <ul>
+      <li> <a href="#"><img  class="lazyload" theme-src="icon1.png" alt=""></a> </li>
+      <li> <a href="#"><img  class="lazyload" theme-src="icon2.png" alt=""></a> </li>
+      <li> <a href="#"><img  class="lazyload" theme-src="icon3.png" alt=""></a> </li>
+      <li> <a href="#"><img  class="lazyload" theme-src="icon4.png" alt=""></a> </li>
+      <li> <a href="#"><img  class="lazyload" theme-src="icon5.png" alt=""></a> </li>
+      <li> <a href="#"><img  class="lazyload" theme-src="icon6.png" alt=""></a> </li>
+      <li> <a href="#"><img  class="lazyload" theme-src="icon7.png" alt=""></a> </li>
+      <li> <a href="#"><img  class="lazyload" theme-src="icon8.png" alt=""></a> </li>
+      <li> <a href="#"><img  class="lazyload" theme-src="icon9.png" alt=""></a> </li>
+      <li> <a href="#"><img  class="lazyload" theme-src="icon10.png" alt=""></a> </li>
+      <li> <a href="#"><img  class="lazyload" theme-src="icon11.png" alt=""></a> </li>
+      <li> <a href="#"><img  class="lazyload" theme-src="icon12.png" alt=""></a> </li>
+    </ul>
+  </div>
+  <a href="javascript:;"> <img  class="lazyload" theme-src="foot1.jpg" alt=""></a> <a href="javascript:;"> <img  class="lazyload" theme-src="foot2.jpg" alt=""></a> <a href="javascript:;"> <img  class="lazyload" theme-src="foot3.jpg" alt=""></a> <a href="javascript:;"> <img  class="lazyload" theme-src="foot4.jpg" alt="" /></a><a href="javascript:;"> <img  class="lazyload" theme-src="foot5.jpg" alt="" /></a> <a href="javascript:;"> <img  class="lazyload" theme-src="foot6.jpg" alt="" /></a><a href="javascript:;"> <img  class="lazyload" theme-src="foot7.jpg" alt="" /></a><a href="javascript:;"> <img  class="lazyload" theme-src="foot8.jpg" alt="" /></a>  <a href="javascript:;"> <img  class="lazyload" theme-src="foot9.jpg" alt="" /></a>  <a href="javascript:;"> <img  class="lazyload" theme-src="foot10.jpg" alt="" /></a> <a href="javascript:;"> <img  class="lazyload" theme-src="foot11.jpg" alt="" /></a> 
+  
+  <div class="daili_box">
+    <img  class="lazyload" theme-src="daili.png" alt="返佣结算表" />
+     <div class="table-a">
+      <table class="rankTable" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+         
+          <td>代理级别</td>
+          <td>团队业绩/日</td>
+          <td>返佣额度</td>
+        </tr>
+        <tr>
+         
+          <td>会员级</td>
+          <td>1+</td>
+          <td>每万返75元</td>
+        </tr>
+        <tr>
+         
+          <td>代理V1</td>
+          <td>1.00万+</td>
+          <td>每万返80元</td>
+        </tr>
+        <tr>
+          
+          <td>代理V2</td>
+          <td>5.00万+</td>
+          <td>每万返85元</td>
+        </tr>
+        <tr>
+        
+          <td>代理V3</td>
+          <td>10.00万+</td>
+          <td>每万返90元</td>
+        </tr>
+        <tr>
+         
+          <td>代理V4</td>
+          <td>15.00万+</td>
+          <td>每万返95元</td>
+        </tr>
+        <tr>
+        
+          <td>代理V5</td>
+          <td>20.00万+</td>
+          <td>每万返100元</td>
+        </tr>
+        <tr>
+      
+          <td>代理V6</td>
+          <td>40.00万+</td>
+          <td>每万返105元</td>
+        </tr>
+        <tr>
+          
+          <td>代理V7</td>
+          <td>60.00万+</td>
+          <td>每万返110元</td>
+        </tr>
+        <tr>
+           
+          <td>代理V8</td>
+          <td>80.00万+</td>
+          <td>每万返115元</td>
+        </tr>
+        <tr>
+          
+          <td>代理V9</td>
+          <td>100.00万+</td>
+          <td>每万返120元</td>
+        </tr>
+        <tr>
+           
+          <td>代理V10</td>
+          <td>150.00万+</td>
+          <td>每万返125元</td>
+        </tr>
+        
+        <tr>
+          
+          <td>代理V11</td>
+          <td>200.00万+</td>
+          <td>每万返130元</td>
+        </tr>
+        <tr>
+           
+          <td>代理V12</td>
+          <td>250.00万+</td>
+          <td>每万返135元</td>
+        </tr>
+        <tr>
+          
+          <td>代理V13</td>
+          <td>300.00万+</td>
+          <td>每万返140元</td>
+        </tr>
+        <tr>
+          
+          <td>代理V14</td>
+          <td>350.00万+</td>
+          <td>每万返145元</td>
+        </tr>
+        <tr>
+           
+          <td>代理V15</td>
+          <td>400.00万+</td>
+          <td>每万返150元</td>
+        </tr>
+        <tr>
+           
+          <td>代理V16</td>
+          <td>500.00万+</td>
+          <td>每万返155元</td>
+        </tr>
+        <tr>
+         
+          <td>代理V17</td>
+          <td>600.00万+</td>
+          <td>每万返160元</td>
+        </tr>
+        <tr>
+          
+          <td>代理V18</td>
+          <td>700.00万+</td>
+          <td>每万返165元</td>
+        </tr>
+        <tr>
+         
+          <td>代理V19</td>
+          <td>800.00万+</td>
+          <td>每万返170元</td>
+        </tr>
+        <tr>
+           
+          <td>代理V20</td>
+          <td>1000.00万+</td>
+          <td>每万返175元</td>
+        </tr>
+        <tr>
+           
+          <td>代理V21</td>
+          <td>1200.00万+</td>
+          <td>每万返180元</td>
+        </tr>
+        <tr>
+          
+          <td>代理V22</td>
+          <td>1400.00万+</td>
+          <td>每万返185元</td>
+        </tr>
+        <tr>
+          
+          <td>代理V23</td>
+          <td>1600.00万+</td>
+          <td>每万返190元</td>
+        </tr>
+        <tr>
+          
+          <td>代理V24</td>
+          <td>1800.00万+</td>
+          <td>每万返195元</td>
+        </tr>
+        <tr>
+          
+          <td>代理V25 </td>
+          <td>2000.00万+</td>
+          <td>每万返200元</td>
+        </tr>
+      </tbody></table>
+      </div>
+       
+      <div class="txt">
+      <div class="tit">业绩如何计算：</div><div class="cont">业绩是指推广玩家的流水情况，比如您推广一个玩家，他一把赢1000，一把输800，那么他给您带来的的业绩为1800元。</div></div>
+      <div class="txt">
+      <div class="tit">佣金多久结算：</div><div class="cont">采用日结模式，每日24：00计算
+                        当天佣金，业绩达到多少按佣金
+                        表发放，可在代理页面领取已发
+                        放佣金。</div></div>
+      <div class="txt">
+      <div class="tit">直&nbsp;&nbsp;营&nbsp;&nbsp;业&nbsp;&nbsp;绩：</div><div class="cont">是指玩家直接扫描您的二维码进行
+                        游戏，所产生的业绩均为您个人
+                        直属业绩。</div></div>
+     
+    </div>
+  
+  </div>
+    <div class="d_down">
+  <div class="down_ico">
+    <div class="ico_img"> <img  class="lazyload" theme-src="icon.png" alt=""> </div>
+  </div>
+  <div class="down_title">
+    <div class="titleh3">JJ棋牌</div>
+    <div class="titlespan">少妇云集，好玩刺激</div>
+  </div>
+  <a class="gobotton myd_btn" onclick="downloadGame(0)">立即下载</a> </div>

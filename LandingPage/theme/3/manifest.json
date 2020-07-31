@@ -1,0 +1,14 @@
+{
+    "css": [
+        "swiper-4.2.6.min",
+        "layout",
+        "jiaocheng"
+    ],
+    "js": [
+        "jquery.min_1.8",
+        "jquery-2.1.4",
+        "swiper-4.2.6.min",
+        "script",
+        "pub"
+    ]
+}

@@ -1,0 +1,231 @@
+<div class="main is_wap">
+  <img class="lazyload" theme-src="wap_01.jpg">
+  <img class="lazyload" theme-src="wap_02.jpg">
+	<p>
+    <img class="lazyload wap_04" theme-src="wap_04.jpg">
+    <a class="down down2 myd_btn android_down">
+      <img id="android_own" onclick="install()" theme-src="install_btn.png" class="android_down lazyload"/>
+    </a>
+  </p>
+	<img class="lazyload" special-src="wap_06.jpg" />
+	<img class="lazyload" theme-src="wap_07.jpg" />
+	<img class="lazyload" theme-src="wap_08.jpg" />
+	<div class="table-a">
+      <table class="rankTable" cellspacing="2" cellpadding="2" border="0" bgcolor="#110708">
+        <tbody><tr>
+          <td class="td1" width="23%">级别名称</td>
+          <td  class="td1" width="50%">业绩区间</td>
+          <td  class="td1" width="27%">返佣比例</td>
+
+        </tr>
+		<tr>
+
+          <td>会员级</td>
+          <td>1+</td>
+          <td>每万返75</td>
+        </tr>
+        <tr>
+
+          <td>代理V1</td>
+          <td>1.00万+</td>
+          <td>每万返80</td>
+        </tr>
+        <tr>
+
+          <td>代理V2</td>
+          <td>5.00万+</td>
+          <td>每万返85</td>
+        </tr>
+        <tr>
+
+          <td>代理V3</td>
+          <td>10.00万+</td>
+          <td>每万返佣90</td>
+        </tr>
+        <tr>
+
+          <td>代理V4</td>
+          <td>15.00万+</td>
+          <td>每万返佣95</td>
+        </tr>
+        <tr>
+
+          <td>代理V5</td>
+          <td>20.00万+</td>
+          <td>每万返佣100</td>
+        </tr>
+        <tr>
+
+          <td>代理V6</td>
+          <td>40.00万+</td>
+          <td>每万返佣105</td>
+        </tr>
+        <tr>
+
+          <td>代理V7</td>
+          <td>60.00万+</td>
+          <td>每万返佣110</td>
+        </tr>
+        <tr>
+
+          <td>代理V8</td>
+          <td>80.00万+</td>
+          <td>每万返佣115</td>
+        </tr>
+        <tr>
+
+          <td>代理V9</td>
+          <td>100.00万+</td>
+          <td>每万返佣120</td>
+        </tr>
+        <tr>
+
+          <td>代理V10</td>
+          <td>150.00万+</td>
+          <td>每万返佣125</td>
+        </tr>
+        <tr>
+
+          <td>代理V11</td>
+          <td>200.00万+</td>
+          <td>每万返佣130</td>
+        </tr>
+        <tr>
+
+          <td>代理V12</td>
+          <td>250.00万+</td>
+          <td>每万返佣135</td>
+        </tr>
+        <tr>
+
+          <td>代理V13</td>
+          <td>300.00万+</td>
+          <td>每万返佣140</td>
+        </tr>
+        <tr>
+
+          <td>代理V14</td>
+          <td>350.00万+</td>
+          <td>每万返佣145</td>
+        </tr>
+        <tr>
+
+          <td>代理V15</td>
+          <td>400.00万+</td>
+          <td>每万返佣150</td>
+        </tr>
+        <tr>
+
+          <td>代理V16</td>
+          <td>500.00万+</td>
+          <td>每万返佣155</td>
+        </tr>
+        <tr>
+
+          <td>代理V17</td>
+          <td>600.00万+</td>
+          <td>每万返佣160</td>
+        </tr>
+        <tr>
+
+          <td>代理V18</td>
+          <td>700.00万+</td>
+          <td>每万返佣165</td>
+        </tr>
+        <tr>
+
+          <td>代理V19</td>
+          <td>800.00万+</td>
+          <td>每万返佣170</td>
+        </tr>
+        <tr>
+
+          <td>代理V20</td>
+          <td>1000.00万+</td>
+          <td>每万返佣175</td>
+        </tr>
+        <tr>
+
+          <td>代理V21</td>
+          <td>1200.00万+</td>
+          <td>每万返佣180</td>
+        </tr>
+        <tr>
+
+          <td>代理V22</td>
+          <td>1400.00万+</td>
+          <td>每万返佣185</td>
+        </tr>
+        <tr>
+
+          <td>代理V23</td>
+          <td>1600.00万+</td>
+          <td>每万返佣190</td>
+        </tr>
+        <tr>
+
+          <td>代理V24</td>
+          <td>1800.00万+</td>
+          <td>每万返佣195</td>
+        </tr>
+        <tr>
+
+          <td>代理V25</td>
+          <td>2000.00万+</td>
+          <td>每万返佣200</td>
+        </tr>
+      </tbody></table>
+      </div>
+	  <div  class="tips"><h3> 收益如何计算</h3>
+	  <p> 收益是直属会员的流水*返佣例，加代理的返佣差收益构成</p>
+	  <h3> 佣金多少计算</h3>
+	  <p> 采用日结模式，每日早上08:00计算前一日佣金，按照佣金表发放佣金，可在代理页面领取已发放佣金</p>
+	   </div>
+
+
+	<img class="lazyload" theme-src="wap_11.jpg" />
+	<img class="lazyload" theme-src="wap_12.jpg" />
+	<img class="lazyload" theme-src="wap_13.jpg" />
+</div>
+<p class="head is_wap">
+  <img class="lazyload" theme-src="header.jpg">
+  <img class="lazyload logo" special-src="icon.png" />
+  <a class="buttonDown myd_btn android_down" href="javascript:;" onClick="downloadGame(1);">
+    <img class="lazyload" theme-src="son_down_01.png" />
+  </a>
+  <a class="buttonDown myd_btn" href="javascript:;" onClick="downloadGame(2);">
+    <img class="lazyload" theme-src="son_down_02.png" />
+  </a>
+ </p>
+<a href="https://newchat44.yiliaomatou.com/mchat/mchatM.aspx?siteid=700175" class="kf is_wap">
+<img class="lazyload" theme-src="son_kf.png" /></a>
+<div class="toast-message">
+  <div id="close-message">安装包准备中...</div>
+</div>
+<div class="window_log2" style="display: none;">
+	<div>
+		<div class="installTitle">
+			<div>安卓报毒解决办法</div>
+			<div onclick="cancelInstall()">x</div>
+		</div>
+		<div class="installList">
+			<ul class="window_hint2">
+				<li> <img class="lazyload" theme-src="install_1.png" alt="加载失败">
+					<p>1.	打开桌面“设置”菜单</p>
+				</li>
+				<li> <img class="lazyload" theme-src="install_2.png" alt="加载失败">
+					<p>2.	选择“安全与隐私”进行设置</p>
+				</li>
+				<li> <img class="lazyload" theme-src="install_3.png" alt="加载失败">
+					<p>3.	选择“更多安全设置”</p>
+				</li>
+				<li> <img class="lazyload" theme-src="install_4.png" alt="加载失败">
+					<p>4.	在“禁止安装恶意应用出”选择关闭</p>
+				</li>
+				<li> <img class="lazyload" theme-src="install_5.png" alt="加载失败">
+					<p>5.	弹出提示，选择“关闭”</p>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>

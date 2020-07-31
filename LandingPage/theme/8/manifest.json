@@ -1,0 +1,13 @@
+{
+  "css": [
+      "main",
+      "page1"
+  ],
+  "js": [
+      "jquery-2.1.4",
+      "main",
+      "pub",
+      "util",
+      "script"
+  ]
+}

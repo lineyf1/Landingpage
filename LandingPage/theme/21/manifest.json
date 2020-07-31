@@ -1,0 +1,10 @@
+{
+        "css": [
+                "base",
+                "style"
+        ],
+        "js": [
+                "jquery-2.1.4",
+                "script"
+        ]
+}

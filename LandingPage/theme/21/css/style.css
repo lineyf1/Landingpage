@@ -1,0 +1,2 @@
+.toast-message {position:fixed;left:50%;  max-width:720px;top:50%;text-align:center;transform:translateX(-50%);width:90%;transition:top .3s ease-out;opacity .3s ease-out;padding:45px 45px 45px 50px;z-index:2000; color:#fff;background:rgba(0,0,0,.6);display: none;}
+#close-message {color:#fef590; font-weight:bold;font-size:32px;}

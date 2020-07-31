@@ -1,0 +1,133 @@
+* {
+	margin: 0;
+	padding: 0;
+	touch-action: pan-y;
+	-webkit-tap-highlight-color: transparent;
+}
+img {
+	width: 100%;
+	float: left;
+}
+.main {
+	width: 100%;
+	max-width: 750px;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: 50%;
+	transform: translateX(-50%);
+	background: #2e1800;
+}
+.content {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	overflow: auto;
+}
+.content > img {
+	width: 100%;
+	float: left;
+}
+.content > p {
+	width: 100%;
+	float: left;
+	position: relative;
+}
+.content > p > img {
+	width: 100%;
+	float: left;
+}
+.content > p > a {
+	width: 3.16rem;
+	position: absolute;
+	top:.3rem;
+	left: 0.4rem;
+}
+.content .install_btn{
+	left: 1.8rem;
+}
+.content > p > a + a {
+	left: auto;
+	right: 0.4rem;
+}
+.content > p > a > img {
+	width: 100%;
+	float: left;
+}
+.content > .son_bottom {
+	width: 100%;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+
+}
+.content > .son_bottom > img {
+	width: 100%;
+	float: left;
+}
+.son_bottom img{ width:90%}
+
+.son_bottom .down_btn{ float:left; display:inline; width:2rem; left:auto; right:.05rem; bottom:.25rem}
+.son_bottom .down_btn.down_btn2{ right:2.2rem}
+.son_bottom .down_btn img{ width:100%}
+.content > .son_bottom > .son_teach {
+	top: 0;
+}
+.content > .son_bottom > .son_down {
+	bottom: 0.04rem;
+}
+ .son_bottom a {
+    width: 1.48rem;
+    position: absolute;
+    bottom: 0.16rem;
+    left: 0.05rem;
+}
+.son_bg {
+	width: 100%;
+	max-width: 750px;
+	height: 100%;
+	overflow: auto;
+	position: fixed;
+	top: 0;
+	left: 50%;
+	transform: translateX(-50%);
+	background: rgba(0,0,0,0.7);
+	z-index: 1000;
+	display: none;
+}
+.baidu > p {
+	width: calc(100% - 1rem);
+	float: left;
+	margin-left: 0.5rem;
+	margin-top: 0.5rem;
+	font-size: 0.28rem;
+	line-height: 1.5em;
+	color: #fff;
+}
+.baidu > p > a {
+	width: 2.2rem;
+	float: left;
+	margin-left: 2.1rem;
+}
+.baidu > p > img {
+	width: 80%;
+	margin-left: 10%;
+}
+.kf {
+	position: fixed;
+	right: 0;
+	top: 40%;
+	z-index: 1000;
+}
+
+.kf a {
+	display: block;
+}
+
+.kf a img {
+	width: 1.5rem;
+}
+.toast-message {position:fixed;left:50%;  max-width:720px;top:50%;text-align:center;transform:translateX(-50%);width:90%;transition:top .3s ease-out;opacity .3s ease-out;padding:45px 45px 45px 50px;z-index:2000; color:#fff;background:rgba(0,0,0,.6);display: none;}
+#close-message {color:#fef590; font-weight:bold;font-size:32px;}

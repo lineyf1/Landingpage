@@ -1,0 +1,48 @@
+var configName = '8mg.net';
+var themeName = '3';
+var ipToUrl = '8mg.net'
+var ver = '20200407_1';
+
+var setting = {
+  '8mg.net': {
+    name: '大发', icon: false, agent: '439972', appKey: 'o4sq4g',
+    finger: 'xdafa', ios: 'open', android: 'self',
+    online: 'https://hotgas.ranact.com/chat/Hotline/channel.jsp?cid=5063751&cnfid=13797&j=9188306724&x=303995&y=22884&z=482480&k=898047&s=1',
+  }
+};
+var extensions = {
+  'df3.net': {
+    agent: '439972',
+  },
+    '18183.cc': {
+    agent: '439972',
+  },
+    'z69.net': {
+    agent: '439972',
+  },
+    'df2.net': {
+    agent: '439972',
+  },
+    'wk7.net': {
+    agent: '439972',
+  },
+  'df3.net': {
+    ios: 'https://dafanewn.cjqm8.com',
+  },
+  'df2.net': {
+    ios: 'https://dafanewn.cjqm8.com',
+  },
+  'z69.net': {
+    ios: 'https://dafanewn.cjqm8.com',
+  },
+ 'wk7.net': {
+    ios: 'https://dafanewn.cjqm8.com',
+  },
+    '18183.cc': {
+    ios: 'https://dafanewn.cjqm8.com',
+  },
+  'www.18183.cc': {
+    ios: 'https://dafanewn.cjqm8.com',
+  },
+};
+

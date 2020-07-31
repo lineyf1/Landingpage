@@ -1,0 +1,103 @@
+html {
+	background: #fff;
+}
+::-webkit-scrollbar {
+width: 16px;
+height: 10px;
+}
+/*scroll shadow radius*/
+::-webkit-scrollbar-track {
+-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+border-radius: 10px;
+background-color: #ddd;
+}
+/*swipe inset radius*/
+::-webkit-scrollbar-thumb {
+border-radius: 10px;
+-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+background-color: #029ed7;
+}
+/*.max_width{ max-width: 720px; margin:0 auto; padding-bottom: 2rem;}*/
+.banner {
+	width: 100%;
+	height: 5.17rem;
+	margin-bottom: 6rem
+}
+.banner img {
+	width: 100%;
+}
+.hidden {
+	display: none
+}
+body {
+	overflow-x: hidden;
+}
+a:hover {
+	cursor: pointer;
+}
+.weixin-tip {
+	display: none;
+	position: fixed;
+	left: 0;
+	top: 0;
+	bottom: 0;
+	background: rgba(0,0,0,0.8);
+	filter: alpha(opacity=80);
+	height: 100%;
+	width: 100%;
+	z-index: 100;
+}
+.weixin-tip p {
+	text-align: center;
+	margin-top: 10%;
+	padding: 0 5%;
+}
+.guid {
+	position: fixed;
+	left: 0;
+	top: 0;
+	height: 100%;
+	width: 100%;
+	background: rgba(0,0,0,.8);
+	text-align: center;
+ padding: 0 .3rem;
+	z-index: 99;
+	display: none;
+	box-sizing: border-box;
+}
+.guid img {
+	max-width: 100%;
+}
+.guid-1 {
+	position: relative;
+ padding: .2rem .5rem 0 1rem;
+}
+.guid-1 img {
+	margin-left: -0.5rem;
+	margin-top: 0;
+}
+.guid-1 .guid-close {
+	position: absolute;
+ right: .2rem;
+ top: .15rem;
+ width: .5rem;
+}
+.guid-2 {
+	margin-top: -0.4rem;
+}
+.guid-3 img {
+	width: 40%;
+	margin: 0 auto;
+	display: block;
+}
+.guid-4 img {
+	width: 40%;
+	margin: 0 auto;
+	display: block;
+}
+.guid-bottom {
+	position: absolute;
+	left: 0;
+	width: 100%;
+	bottom: 0;
+}

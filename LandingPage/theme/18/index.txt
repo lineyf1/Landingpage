@@ -1,0 +1,94 @@
+<div class="max_width">
+  <div class="banner"> <img class="lazyload" onclick="install()" special-src="topbg.jpg" alt=""> </div>
+  <!-- nav -->
+  <div class="nav">
+    <div class="nav_img"> <img class="lazyload" theme-src="nav.jpg" alt=""></div>
+    <div class="gamelist">
+      <ul>
+        <li> <a href="javascript:;"><img class="lazyload" theme-src="game1_03.jpg" alt=""></a> </li>
+        <li> <a href="javascript:;"><img class="lazyload" theme-src="game2_03.jpg" alt=""></a> </li>
+        <li> <a href="javascript:;"><img class="lazyload" theme-src="game3_03.jpg" alt=""></a> </li>
+        <li> <a href="javascript:;"><img class="lazyload" theme-src="game4_03.jpg" alt=""></a> </li>
+        <li> <a href="javascript:;"><img class="lazyload" theme-src="game5_03.jpg" alt=""></a> </li>
+        <li> <a href="javascript:;"><img class="lazyload" theme-src="game6_03.jpg" alt=""></a> </li>
+        <li> <a href="javascript:;"><img class="lazyload" theme-src="game7_03.jpg" alt=""></a> </li>
+        <li> <a href="javascript:;"><img class="lazyload" theme-src="game8_03.jpg" alt=""></a> </li>
+      </ul>
+    </div>
+  </div>
+  <!-- banner -->
+  <div class="game_banner">
+    <div class="game_banner_content">
+      <h1>下载手机APP</h1>
+      <p>注册首存最高送<i>888</i><em>元</em></p>
+      <p>诚招代理让您月入<i>百万！</i></p>
+      <p>用户评分：</p>
+      <div class="icon"> <img class="lazyload" theme-src="xingxing.png" alt=""></div>
+    </div>
+  </div>
+  <!-- 游戏介绍 -->
+  <div class="game_introduce">
+    <div class="introduce_box">
+      <ul>
+        <li><img class="lazyload" theme-src="game1_03.jpg" alt=""> <img class="lazyload" theme-src="biggame1.jpg" alt=""> </li>
+        <li><img class="lazyload" theme-src="game2_03.jpg" alt=""> <img class="lazyload" theme-src="biggame2.jpg" alt=""> </li>
+        <li><img class="lazyload" theme-src="game3_03.jpg" alt=""> <img class="lazyload" theme-src="biggame3.jpg" alt=""> </li>
+        <li><img class="lazyload" theme-src="game4_03.jpg" alt=""> <img class="lazyload" theme-src="biggame4.jpg" alt=""> </li>
+        <li><img class="lazyload" theme-src="game5.jpg" alt=""> <img class="lazyload" theme-src="biggame5.jpg" alt=""> </li>
+      </ul>
+    </div>
+  </div>
+  <div class="footer">
+    <div class="footer_top"><img class="lazyload" theme-src="foot_02.jpg" alt=""></div>
+    <div class="footer_end"><img class="lazyload" theme-src="foot2_03.jpg" alt=""></div>
+  </div>
+  <div class="d_down">
+    <div class="down_ico">
+      <div class="ico_img"> <img class="lazyload" special-src="icon.png" alt="大富豪娱乐"> </div>
+    </div>
+    <div class="down_title">
+      <div class="titleh3">棋牌大亨</div>
+      <div class="titlespan">少妇云集，好玩刺激</div>
+    </div>
+    <div class="button"> <a onclick="downloadGame(2)" target="_blank" class="downloadButton myd_btn" style="text-decoration:none">
+        <button type="button">IOS下载</button>
+      </a> <a onclick="downloadGame(1)" target="_blank" class="downloadButton myd_btn android_down" style="text-decoration:none">
+        <button type="button">安卓下载</button>
+      </a>
+    </div>
+  </div>
+
+<!--客服-->
+<div class="kf"> <a id="online_service" target="_blank" href="https://newchat44.yiliaomatou.com/mchat/mchatM.aspx?siteid=700175"> <img class="lazyload" theme-src="kefu.png"> </a> </div>
+
+<div class="toast-message">
+  <div id="close-message">安装包准备中...</div>
+</div>
+
+<div class="window_log2" style="display: none;">
+	<div>
+		<div class="installTitle">
+			<div>安卓报毒解决办法</div>
+			<div onclick="cancelInstall()">x</div>
+		</div>
+		<div class="installList">
+			<ul class="window_hint2">
+				<li> <img class="lazyload" theme-src="install_1.png" alt="加载失败">
+					<p>1.	打开桌面“设置”菜单</p>
+				</li>
+				<li> <img class="lazyload" theme-src="install_2.png" alt="加载失败">
+					<p>2.	选择“安全与隐私”进行设置</p>
+				</li>
+				<li> <img class="lazyload" theme-src="install_3.png" alt="加载失败">
+					<p>3.	选择“更多安全设置”</p>
+				</li>
+				<li> <img class="lazyload" theme-src="install_4.png" alt="加载失败">
+					<p>4.	在“禁止安装恶意应用出”选择关闭</p>
+				</li>
+				<li> <img class="lazyload" theme-src="install_5.png" alt="加载失败">
+					<p>5.	弹出提示，选择“关闭”</p>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>

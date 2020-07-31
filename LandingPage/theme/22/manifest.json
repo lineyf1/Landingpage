@@ -1,0 +1,14 @@
+{
+        "css": [
+                "layout",
+                "styles",
+                "swiper.min",
+                "jiaocheng"
+        ],
+        "js": [
+                "jquery",
+                "pub",
+                "swiper.min",
+                "script"
+        ]
+}

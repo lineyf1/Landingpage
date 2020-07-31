@@ -1,0 +1,12 @@
+{
+    "css": [
+            "style",
+            "pub_rem"
+    ],
+    "js": [
+            "pub_rem",
+            "jquery-3.3.1.min",
+            "jquery.qrcode.min",
+            "openinstall"
+    ]
+}

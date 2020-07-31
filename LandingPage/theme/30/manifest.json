@@ -1,0 +1,14 @@
+{
+        "css": [
+                "reset",
+                "swiper.min",
+                "style"
+        ],
+        "js": [
+                "screen",
+                "jquery",
+                "swiper.min",
+                "jquery.SuperSlide",
+                "script"
+        ]
+}

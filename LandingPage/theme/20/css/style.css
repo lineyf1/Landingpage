@@ -1,0 +1,233 @@
+html{ background: #fff;}
+		@charset "gbk";body,h1,h2,h3,p,dl,dd,ol,ul,th,td,form,fieldset,input,button,textarea{margin:0;padding:0}body,h1,h2,h3,h4,h5,h6,p,ul,ol,li,dl,dt,dd,a,textarea,input,button,span,em,strong,img,div{-webkit-touch-callout:none;-webkit-tap-highlight-color:rgba(0,0,0,0);-webkit-appearance:none; outline: none;}
+		
+		
+        ::-webkit-scrollbar { width: 16px; height: 10px;}
+        /*scroll shadow radius*/
+        ::-webkit-scrollbar-track { -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); border-radius: 10px; background-color: #ddd;}
+        /*swipe inset radius*/
+        ::-webkit-scrollbar-thumb { border-radius: 10px; -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3); background-color: #029ed7;}
+        .touch{ display: block; width: 100%; height: 1.2rem; line-height: 1rem; color: #fff; font-size: 0.46rem;background: url(../images/1.png) no-repeat; text-align: center; border-radius: 0.06rem;  background-size: 100% 100%;}
+		a{text-decoration:none;}
+        .max_width{ max-width: 720px;width:100%;overflow:hidden; margin:0 auto; padding-bottom: 2rem; background:#102039}
+        .banner1{ width: 100%; height: 100%;}
+        .banner1 img{ width: 100%;}
+        .dw_area{ min-height: 1.6rem; padding: 0.18rem 0.22rem; position: relative;}
+        .dw_area .in{ min-height: 1.6rem;}
+        .dw_area .in .m{ display: block; width: 1.6rem; height: 1.6rem; position: absolute; left: 0.27rem; top:.18rem;}
+        .dw_area .in .m img{ width: 100%;}
+        .dw_area .in .rt_t{ padding:0.15rem 0 0 1.82rem; color: #ffffff;}
+        .dw_area .in .rt_t h3{ font-size: 0.48rem;}
+        .dw_area .in .rt_t span{display: inline-block; padding:0.15rem 0 0 2.3rem; font-size: 0.3rem; background: url(../images/star.png) no-repeat 0 0.15rem; background-size: 2rem 0.4rem;}
+		.dw_list{height:4rem;}
+		.dw_list ul{list-style:none;padding:0;margin:0}
+		.dw_list ul li{float:left;width:25%;}
+		.dw_list ul li img{width:80%;margin:2% 10%;}
+        .btn{ padding: 0.16rem 0 0.24rem;}
+        .gray_w{background: #ededed;}
+        .game{ padding: 0.26rem 0.2rem; min-height: 4.17rem;box-sizing: border-box;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;-o-box-sizing: border-box; overflow: hidden;}
+        .game_pic{ width: 100%; min-height: 4.17rem; white-space: nowrap; overflow-x: auto; overflow-scrolling : touch; -webkit-overflow-scrolling: touch;-moz-overflow-scrolling: touch;}
+        .game_pic a img{ width: 40%; margin-right: 2.4%;}
+        .game_lis{ margin-top: 0.38rem; padding: 0.3rem; border-top: 1px solid #d5d5d5; background: #ededed; }
+        .game_lis h3{ font-size: 0.38rem; color: #333;}
+        .game_lis ul{ padding: 0.32rem 0.24rem 0; min-height: 1.7rem;overflow: hidden;}
+        .game_lis ul li{ width: 25%; float: left;}
+        .game_lis ul li a{ display: block;}
+        .game_lis ul li a .m{ display: block; width: 1.2rem; height: 1.2rem; margin: 0 auto;}
+        .game_lis ul li a .m img{ width: 100%;}
+        .game_lis ul li a .t{ width: 100%; text-align: center; color: #3333; font-size: 0.24rem; display: inline-block; margin-top: 0.16rem;}
+
+        .dw_propt{ width: 100%;min-height: 1.54rem; background:rgba(255,255,255,0.77); position: fixed; left: 0; bottom: 0; box-shadow: 0 0 2px rgba(0,0,0,0.35);}
+        .ppt_lt{ position: relative;}
+        .img{ display: block; width: 1.1rem; height: 1.1rem; position: absolute; top: 0.22rem; left: 0.38rem; overflow: hidden;}
+        .img img{ display: block; width: 100%; height: 100%;}
+        .ppt_lt .lt_t{ padding: 0.30rem 0 0 1.74rem; color: #333;}
+        .ppt_lt .lt_t h3{ font-size: 0.4rem;}
+        .ppt_lt .lt_t span{ font-size: 0.28rem; color: #545454; display: block; margin-top: 0.15rem; }
+        .ppt_lt_ii .lt_in{ margin: 0 0.3rem; position: relative; }
+        .ppt_lt .ppt_dw{ display: block; width: 2.1rem; height: 0.9rem; line-height: 0.9rem; background: #43c117; color: #fff; text-align: center; font-size: 0.42rem; border-radius: 0.08rem; position: absolute; top: 0.33rem; right: 0.3rem;}
+        .ppt_lt_ii .ppt_dw{ width: 100%; left: 0; right: 0}
+
+        footer{ min-height: 0.80rem; padding: 0.23rem 0; border-top: 1px solid #ededed; background: #424a55; text-align: center;}
+        footer p{ color: #c9c9c9; font-size: 0.28rem;}
+        footer p:last-child{ margin-top: 0.1rem;}
+
+        body {
+/*            background: url(source/back.png) no-repeat;
+            background-size: 100%;*/
+            overflow-x: hidden;
+			margin:0px;
+        }
+
+         .dw_area .in.icons {
+            margin-top: 0.3rem;
+            width: 110%;
+         }
+
+        .dw_area .in.icons .m {
+            position: static;
+            display: inline-block;
+            width: 1.25rem;
+            height: 1.25rem;
+            margin-right: 0.14rem;
+            /*background: rgba(0, 0, 0, 0.5);*/
+        }
+        .dw_area .in.icons .m .name, .dw_area.game-item .m .name {
+            width: 100%;
+            text-align: center;
+            font-weight: bold;
+        }
+
+        .game-item {
+            margin: 0.25rem 0.1rem 0.25rem 0.1rem;
+            height: 2.6rem;
+            border-radius: 0.06rem;
+            position: relative;
+            margin-bottom: 0.8rem;
+        }
+        .dw_area.game-item .m {
+            display: inline-block;
+            width: 1.25rem;
+            height: 1.25rem;
+            position: absolute;
+        }
+
+        .dw_area.game-item .m img {
+            width: 100%;
+        }
+
+        .dw_area.game-item .tip {
+            position: absolute;
+            left: 0.15rem;
+            top: 2.5rem;
+            width: 1.5rem;
+            text-align: center;
+            font-size: 0.2rem;
+            color: gray;
+            font-weight: bold;
+        }
+
+        .down-button {
+            display: block;
+            background-size: 100%;
+            width: 1.5rem;
+            height: 1.7rem;
+            top: 1.9rem;
+            left: 0.15rem;
+            position: absolute;
+            background-repeat: no-repeat;
+        }
+
+        .dw_area.game-item .pic {
+            position: absolute;
+            left: 2rem;
+            top: 0.2rem;
+            /*background: orange;*/
+            width: 4.9rem;
+            height: 2.55rem;
+            background-size: 100% 100%;
+        }
+
+        a:hover {
+            cursor: pointer;
+        }
+        .weixin-tip{display: none; position: fixed; left:0; top:0; bottom:0; background: rgba(0,0,0,0.8); filter:alpha(opacity=80);  height: 100%; width: 100%; z-index: 100;}
+        .weixin-tip p{text-align: center; margin-top: 10%; padding:0 5%;}
+#open_safari {position: fixed;background: rgba(0,0,0,.7);color: #fff;width: 100%;height: 100%;left: 0;top: 0;z-index: 999;display: none;}
+        #open_safari p{font-size: 14px;}    
+        #open_safari img{width: 100%;}
+        #open_safari .w640 {padding: 30px;}
+        .ios_show, .and_show {display: none;}
+        .w640 {position: relative;max-width: 640px;margin: 0 auto;}#open_safari #copyBtns {max-width: 30vw;display: block;margin: 10px auto;}
+        #open_safari .safari_info {max-width: 70vw;margin: 20px auto;}
+        .hide {position: absolute;left: -100vw;top: -100vh;}
+ 
+ 
+        .guid{
+            position: fixed;
+            left: 0;
+            top: 0;
+            height: 100%;
+            width: 100%;
+            background: rgba(0,0,0,.8);
+            text-align: center;
+            padding: 0 .3rem;
+            z-index: 99;
+            display: none;
+            box-sizing: border-box;
+        }
+        .guid img{
+            max-width: 100%;
+        }
+        .guid-1 {
+            position: relative;
+            padding: .2rem .5rem 0 1rem;
+
+        }
+        .guid-1 img {
+            margin-left: -0.5rem;
+            margin-top: 0;
+        }
+        .guid-1 .guid-close{
+            position: absolute;
+            right: .2rem;
+            top: .15rem;
+            width: .5rem;
+        }
+        .guid-2 {
+            margin-top: -0.4rem;
+        }
+        .guid-3 img{
+            width: 40%;
+            margin: 0 auto;
+            display: block;
+        }
+        .guid-4 img{
+            width: 40%;
+            margin: 0 auto;
+            display: block;
+        }
+        .guid-bottom{
+            position: absolute;
+            left: 0;
+            width: 100%;
+            bottom: 0;
+        }
+
+ .table-a {
+    width: 90%;
+    height: auto;
+    margin: 0 auto;
+    padding: .06rem 0;
+	background:#07172e
+}
+.table_bg{ width:98%; height:auto; margin:0 auto;padding:.06rem 0; background:#0a131c}
+
+.table-a table {
+    border-right: 1px solid #565f70;
+    border-bottom: 1px solid #565f70;
+    width: 98%;
+    height: auto;
+    margin: 0 auto;
+    font-size: .2rem;
+}
+.table-a table td {
+    border-left: 1px solid #565f70;
+    border-top: 1px solid #565f70;
+    color: #929ba3;
+    text-align: center;
+    padding: .08rem 0;
+}
+
+.table-a table tr:nth-child(even){
+background:#162937;
+}
+
+.table-a table tr:nth-child(odd){
+background:#273a49;
+}
+.txt{ width:90%; height:auto; margin:0 auto; overflow:hidden;font-size:.2rem; color:#5e5960; margin-top:.3rem}
+.txt .tit{ width:100%; height:.3rem; line-height:.3rem;    color:#c6a062;    margin-bottom: .2rem;}
+.ask{ width:80%; float:left;line-height:30px; }
+.txt .tit .num{ width:30px; height:30px; line-height:30px; background:url(../images/txt_bg.png) no-repeat; background-size:100% 100%; vertical-align:middle;   color:#68463a; float:left; text-align:center; font-weight:bold; margin-right:.1rem }
+.txt .answer{ width:100%; font-size:.17rem}

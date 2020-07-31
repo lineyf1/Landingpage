@@ -1,0 +1,82 @@
+var configName = 'y5y.cc';
+var themeName = '7';
+var ipToUrl ='y5y.cc'
+var ver = '20200310_6';
+
+var setting = {
+  'y5y.cc': {
+    name: '易发', icon: true, agent: '210001', appKey: 'vgp8va',
+    finger: 'yf', ios: 'open', h5: 'https://tianhaoh5.yanqingwenwan.com/yf_191010/',
+    online: 'https://bowsaw.chatazure.com/chat/Hotline/channel.jsp?cid=5008883&cnfid=9193&j=1259818181&s=1',
+  }
+};
+var extensions = {
+  '1333786.com': {
+    agent: '468585',
+  },
+    '18187.cc': {
+    agent: '468585',
+  },
+    '8zl.net': {
+    agent: '538924',
+  },
+    '9lh.net': {
+    agent: '538924',
+  },
+  '2pt9.com': {
+    agent: '538924',
+  },
+  'i8f0.com': {
+    agent: '538924',
+  },
+  '8h81.com': {
+    agent: '468585',
+  },
+  'n2y6.com': {
+    agent: '468585',
+  },
+
+    '9lz.net': {
+    agent: '538924',
+  },
+    '777.tl': {
+    agent: '538924',
+  },
+    '999.gl': {
+    agent: '538924',
+  },
+  '38k.cc': {
+    agent: '468585',
+  },
+  'g74.net': {
+    agent: '468585',
+  },
+  '555.ht': {
+    agent: '468585',
+  },
+  '666.ht': {
+    agent: '468585',
+  },
+
+    '7wn.net': {
+    agent: '538924',
+  },
+'2yf.cc': {
+    ios: 'https://ios.z92b0.com/h5n5',
+  },
+
+  'zd4.net': {
+    ios: 'https://ios.z92b0.com/h5n5',
+  },
+  'fg8.net': {
+    ios: 'https://ios.z92b0.com/h5n5',
+  },
+  'y5y.cc': {
+    ios: 'https://ios.z92b0.com/h5n5',
+  },
+};
+
+var cnzz = {
+  '1333786.com':'1278582036',
+  'y5y.cc':'1278679770',
+};

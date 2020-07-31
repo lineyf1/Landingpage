@@ -1,0 +1,11 @@
+{
+        "css": [
+                "style",
+                "resive",
+                "jiaocheng"
+        ],
+        "js": [
+                "jquery.min_1.8",
+                "main"
+        ]
+}

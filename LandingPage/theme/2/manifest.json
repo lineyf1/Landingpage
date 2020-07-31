@@ -1,0 +1,13 @@
+{
+        "css": [
+                "styles",
+                "swiper.min",
+                "layout"
+        ],
+        "js": [
+                "pub",
+                "jquery",
+                "swiper.min",
+                "script"
+        ]
+}

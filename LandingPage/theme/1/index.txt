@@ -1,0 +1,188 @@
+<div class="max_width">
+  <div class="banner"> <img class="lazyload" special-src="topbg.jpg" ></div>
+  <div class="btn"> 
+    <a onclick="downloadGame(1)" class="android myd_btn" title="android进入体验"> 
+      <img  class="lazyload"  theme-src="an_btn.png"> 
+    </a> 
+    <a onclick="downloadGame(2)" class="ios myd_btn" title="ios进入体验">
+       <img  class="lazyload"  theme-src="ios_btn.png">
+    </a> 
+
+   
+  </div>
+
+  <div>
+    <a id="h5btn" onclick="toHtmlGame()" title="h5游戏">
+      <img  class="lazyload"  theme-src="h5_btn.png">
+   </a> 
+  </div>
+  <div class="view">
+    <div class="icon" >
+      <dl class="icon-list">
+        <dd><img  class="lazyload"  theme-src="zrlh.png" /></dd>
+        <dd><img  class="lazyload"  theme-src="cpbjl.png" /></dd>
+        <dd><img  class="lazyload"  theme-src="slwh.png" /></dd>
+        <dd><img  class="lazyload"  theme-src="ddz.png" /></dd>
+        <dd><img  class="lazyload"  theme-src="qznn.png" /></dd>
+        <dd><img  class="lazyload"  theme-src="kpqn.png" /></dd>
+        <dd><img  class="lazyload"  theme-src="jszjh.png" /></dd>
+        <dd><img  class="lazyload"  theme-src="bcbm.png" /></dd>
+        <dd><img  class="lazyload"  theme-src="fcs.png" /></dd>
+        <dd><img  class="lazyload"  theme-src="wxq.png" /></dd>
+        <dd><img  class="lazyload"  theme-src="ws.png" /></dd>
+        <dd><img  class="lazyload"  theme-src="tql.png" /></dd>
+        <dd><img  class="lazyload"  theme-src="dsby.png" /></dd>
+        <dd><img  class="lazyload"  theme-src="3dby.png" /></dd>
+        <dd><img  class="lazyload"  theme-src="lwby.png" /></dd>
+        <dd><img  class="lazyload"  theme-src="wlby.png" /></dd>
+        <dd><img  class="lazyload"  theme-src="csby.png" /></dd>
+        <dd><img  class="lazyload"  theme-src="dntg2.png" /></dd>
+        <dd><img  class="lazyload"  theme-src="mfwz.png" /></dd>
+        <dd><img  class="lazyload"  theme-src="hlby.png" /></dd>
+        <dd><img  class="lazyload"  theme-src="lwby2.png" /></dd>
+        <dd><img  class="lazyload"  theme-src="ttby.png" /></dd>
+        <dd><img  class="lazyload"  theme-src="jcby.png" /></dd>
+        <dd><img  class="lazyload"  theme-src="jchw2.png" /></dd>
+        <dd><img  class="lazyload"  theme-src="sg.png" /></dd>
+        <dd><img  class="lazyload"  theme-src="brpj.png" /></dd>
+        <dd><img  class="lazyload"  theme-src="brnn.png" /></dd>
+        <dd><img  class="lazyload"  theme-src="hbsl.png" /></dd>
+        <dd><img  class="lazyload"  theme-src="4rsh.png" /></dd>
+        <dd><img  class="lazyload"  theme-src="dzpk.png" /></dd>
+        <dd><img  class="lazyload"  theme-src="dzpj.png" /></dd>
+        <dd><img  class="lazyload"  theme-src="shz.png" /></dd>
+        <dd><img  class="lazyload"  theme-src="jshc.png" /></dd>
+        <dd><img  class="lazyload"  theme-src="tbnn.png" /></dd>
+        <dd><img  class="lazyload"  theme-src="tbsh.png" /></dd>
+        <dd><img  class="lazyload"  theme-src="9xlw.png" /></dd>
+        <dd><img  class="lazyload"  theme-src="zrbjl.png" /></dd>
+        <dd><img  class="lazyload"  theme-src="zrsb.png" /></dd>
+        <dd><img  class="lazyload"  theme-src="zrlp.png" /></dd>
+        <dd><img  class="lazyload"  theme-src="vrbjsc.png" /></dd>
+        <dd><img  class="lazyload"  theme-src="vrcqssc.png" /></dd>
+        <dd><img  class="lazyload"  theme-src="xy28.png" /></dd>
+        <dd><img  class="lazyload"  theme-src="vrsm.png" /></dd>
+        <dd><img  class="lazyload"  theme-src="gd11x5.png" /></dd>
+        <dd><img  class="lazyload"  theme-src="txffc.png" /></dd>
+        <dd><img  class="lazyload"  theme-src="jxfc.png" /></dd>
+        <dd><img  class="lazyload"  theme-src="jsk3.png" /></dd>
+        <dd><img  class="lazyload"  theme-src="bjsc.png" /></dd>
+        <dd><img  class="lazyload"  theme-src="vrcqssc.png" /></dd>
+        <dd><img  class="lazyload"  theme-src="xy28.png" /></dd>
+        <dd><img  class="lazyload"  theme-src="vrsm.png" /></dd>
+        <dd><img  class="lazyload"  theme-src="fqzs.png" /></dd>
+        <dd><img  class="lazyload"  theme-src="vrsc.png" /></dd>
+        <dd><img  class="lazyload"  theme-src="sgj.png" /></dd>
+        <dd><img  class="lazyload"  theme-src="lkby.png" /></dd>
+      </dl>
+    </div>
+    <div class="more">
+       <a class="iconmore"  href="javascript:;">查看更多
+      <div class="sj"></div>
+      </a> 
+    </div>
+    <video width="100%" controls="controls" playsinline webkit-playsinline src="https://18534.v-jm.com/th-newdafa202/video/wy.mov">
+      您暂不支持视频播放功能！
+    </video>
+	  <div class="daili"><img class="lazyload"  theme-src="daili.jpg"  alt="代理"/></div>
+  </div>
+  <div class="btn1"> 
+    <a onclick="downloadGame(1)" class="android myd_btn" title="android进入体验"> 
+    <img  class="lazyload"  theme-src="an_btn.png"></a> 
+    <a onclick="downloadGame(2)" class="ios myd_btn" title="ios进入体验"> 
+    <img  class="lazyload"  theme-src="ios_btn.png"></a> </div>
+  <div id="yuqu"> &nbsp;&nbsp;&nbsp;&nbsp;【顶级真人真钱棋牌，支持24小时提现】超快的刺激的对战棋牌游戏，场景精美，玩法丰富，节奏明快，瞬间即可让你体验到无穷乐趣，不单有经典游戏，更创新了二人麻将，港式二人梭哈，使对战过程更加刺激。 <br>
+    游戏特色： <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;牛牛：通比牛牛，抢庄牛牛，对战牛牛不同玩法的牛牛给您不同对战的紧张刺激感 <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;炸金花：两人开局，运气胆量缺一不可，多人混战，越战越勇 <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;深海捕鱼：风格迥异的特殊鱼种来袭，美人鱼金龙鱼随时出现随时捕获 <br>
+  </div>
+  <div class="dw_line" style="padding:10px">
+    <div style="margin-bottom: 0.3rem;margin-top: 0.3rem;">
+      <div class="dw_line_div"> <img class="left-img lazyload"  theme-src="head1.png" alt="">
+        <div class="li-ringht-div"> <span class="name-txt span-color">迷之wx</span>
+          <div class="right-img"> <img class="lazyload"  theme-src="04.jpg" alt=""
+                style="vertical-align:-5px;width: 0.4rem;height: 0.4rem;"> 578 </div>
+          <div>⭐&nbsp;⭐&nbsp;⭐&nbsp;⭐️&nbsp;⭐</div>
+          <div class="div-span ldiv">以前玩过很多这种类型的游戏，感觉还是这个好玩，画面精美所以一要tj，一起加入赢金币吧</div>
+          <span class="div-span span-color span" style="font-size:0.24rem;"> 2018年9月12日 17:36 回复</span> </div>
+      </div>
+      <div class="dw_line_div"> <img class="left-img lazyload"  theme-src="head2.png" alt="">
+        <div class="li-ringht-div"> <span class="name-txt span-color">正在缓冲%0.1</span>
+          <div class="right-img"> <img class="lazyload"  theme-src="04.jpg" alt=""
+                style="vertical-align:-5px;width: 0.4rem;height: 0.4rem;"> 521 </div>
+          <div>⭐&nbsp;⭐&nbsp;⭐&nbsp;⭐️&nbsp;⭐</div>
+          <div class="div-span ldiv">每天上班悄悄玩几局，比一天的工资都高，要一如既往的好下去，就可以辞职在家挣钱了</div>
+          <span class="div-span span-color span" style="font-size:0.24rem;"> 2018年9月7日 10:59 回复</span> </div>
+      </div>
+      <div class="dw_line_div"> <img class="left-img lazyload"  theme-src="head3.png" alt="">
+        <div class="li-ringht-div"> <span class="name-txt span-color">DK</span>
+          <div class="right-img"> <img class="lazyload"  theme-src="04.jpg" alt=""
+                style="vertical-align:-5px;width: 0.4rem;height: 0.4rem;"> 259 </div>
+          <div>⭐&nbsp;⭐&nbsp;⭐&nbsp;⭐️&nbsp;⭐</div>
+          <div class="div-span ldiv">今年最火爆的真人美女抢庄牛牛，让你赢到手软，赶紧来体验真人美女棋牌</div>
+          <span class="div-span span-color span" style="font-size:0.24rem;"> 2018年9月6日 09:13 回复</span> </div>
+      </div>
+      <div class="dw_line_div"> <img class="left-img lazyload"  theme-src="head4.png" alt="">
+        <div class="li-ringht-div"> <span class="name-txt span-color">曼珠沙华</span>
+          <div class="right-img"> <img class="lazyload"  theme-src="04.jpg" alt=""
+                style="vertical-align:-5px;width: 0.4rem;height: 0.4rem;"> 349 </div>
+          <div>⭐&nbsp;⭐&nbsp;⭐&nbsp;⭐️&nbsp;⭐</div>
+          <div class="div-span ldiv">可以兑换成现金的游戏，墙裂tj大家去玩，是一款很不错的赢现金的游戏应用，各种玩法，容易上手</div>
+          <span class="div-span span-color span" style="font-size:0.24rem;"> 2018年9月1日13:28 回复</span> </div>
+      </div>
+    </div>
+  </div>
+  <div class="btn3"> 
+    <a onclick="downloadGame(1)" class="android myd_btn" title="android进入体验"> 
+    <img  class="lazyload"  theme-src="an_btn.png"> </a> 
+    <a onclick="downloadGame(2)" class="ios myd_btn" title="ios进入体验">
+    <img class="lazyload" theme-src="ios_btn.png"></a> </div>
+  <div class="dw_area game-item mt">
+    <div class="dw_areadiv"> <a class="pic myd_btn lazyload"  special-bg="doudizhu.jpg" 
+          onclick="downloadGame(0)"></a> </div>
+  </div>
+  <div class="dw_area game-item mt">
+    <div class="dw_areadiv"> <a class="pic myd_btn lazyload" theme-bg="qznn.jpg"
+          onclick="downloadGame(0)"></a> </div>
+  </div>
+  <div class="dw_area game-item mt">
+    <div class="dw_areadiv"> <a class="pic myd_btn lazyload" theme-bg="bjl.jpg"
+          onclick="downloadGame(0)"></a> </div>
+  </div>
+  <div class="dw_area game-item mt">
+    <div class="dw_areadiv"> <a class="pic myd_btn lazyload" theme-bg="zhenren.jpg"
+          onclick="downloadGame(0)"></a> </div>
+  </div>
+  <div class="dw_area game-item mt">
+    <div class="dw_areadiv"> <a class="pic myd_btn lazyload" theme-bg="buyu.jpg"
+          onclick="downloadGame(0)"></a> </div>
+  </div>
+  <div class="dw_area game-item mt">
+    <div class="dw_areadiv"> <a class="pic myd_btn lazyload" theme-bg="hongbao.jpg"
+          onclick="downloadGame(0)"></a> </div>
+  </div>
+  <div class="dw_area game-item mt">
+    <div class="dw_areadiv"> <a class="pic myd_btn lazyload" theme-bg="niuniu.jpg"
+          onclick="downloadGame(0)"></a> </div>
+  </div>
+  <div class="dw_area game-item mt">
+    <div class="dw_areadiv"> <a class="pic myd_btn lazyload" theme-bg="9xianlw.jpg"
+          onclick="downloadGame(0)"></a> </div>
+  </div>
+  <div class="dw_area game-item mt">
+    <div class="dw_areadiv"> <a class="pic myd_btn lazyload" theme-bg="brnn.jpg"
+          onclick="downloadGame(0)"></a> </div>
+  </div>
+  <footer>
+    <p>版权所有 <a href="#" style="color:#c9c9c9;text-decoration: underline;" class="myAppName">棋牌</a> </p>
+  </footer>
+</div>
+
+<!--客服-->
+    <div class="kf"> 
+      <a id="online_service" target="_blank" href="#"> 
+        <img class="lazyload"  theme-src="kefu.png" />
+       </a>
+     </div>
+    

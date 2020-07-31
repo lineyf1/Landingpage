@@ -1,0 +1,82 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	font-family: 微软雅黑;
+	font-size: 12px;
+}
+ul {
+	padding: 0px;
+	margin: 0px;
+}
+ul li {
+	padding: 0px;
+	margin: 0px;
+	list-style-type: none;
+}
+img {
+	display: block;
+}
+.main {
+	max-width: 720px;
+	margin: 0 auto;
+}
+
+
+.install{ background:#960001; padding:.1rem 0 .2rem; width:100%; height:auto; margin:0 auto; cursor:pointer}
+.install img{ width:50%; height:auto; margin:0 auto;margin-left: 1.6rem;}
+
+
+.window_log2 {
+  display: none;
+  z-index: 1000;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.window_log2 >div {
+  position: fixed;
+  bottom: 0px;
+  left:0;
+  right:0;
+  max-width:700px;
+  margin:0 auto;
+    height: 70%;
+}
+.installTitle {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20px;
+    width: 100%;
+    height: 44px;
+    line-height: 44px;
+	font-size:.3rem;
+    box-sizing: border-box;
+    background-color: #fff;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom: 1px solid #999;
+}
+.installList {
+    overflow-y: auto;
+    width: 100%;
+    height: 70%;
+}
+.window_hint2 {
+    padding: 30px 0 20px 0;
+    margin: auto;
+    width: 100%;
+    box-sizing: border-box;
+    background-color: #fff;
+}
+ul, li {
+    list-style: none;
+}
+.window_hint2 > li > img {
+    width: 95%;
+    margin-left: 5px;
+}
+
+.window_hint2 > li p{ text-align:center; font-size:.4rem}

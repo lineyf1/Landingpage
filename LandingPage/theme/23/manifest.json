@@ -1,0 +1,13 @@
+{
+    "css": [
+    	"style",
+        "jiaocheng"
+    ],
+    "js": [
+        "jquery.min",
+        "fingerprint2",
+        "default",
+        "pub",
+        "script"
+    ]
+}

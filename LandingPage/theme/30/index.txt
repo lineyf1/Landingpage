@@ -1,0 +1,222 @@
+<div id="azjc" style="background-color:black; padding:68px 0 120px;display:none;">
+  <div style="position:fixed;z-index: 99;width:100%;height:52px;top:0px;background-color:#000000;padding:5px;">
+    <div class="logo22"><a href=""><img class="lazyload" theme-src="back.png"></a></div>
+    <div class="logo222"><a href=""><img src=""></a></div>
+  </div>
+  <div class="downLoad container">
+    <div class="textTit1">
+      <p>安装流程</p>
+    </div>
+    <ul>
+      <li><span>1</span>
+        <p>点击下面 <a href="javascript:;">《立即下载》</a>按钮,确认安装！</p>
+      </li>
+      <li><span>2</span>
+        <p>返回 <a href="javascript:;">手机桌面</a>，查看 <a href="javascript:;">最新应用更新</a> </p>
+      </li>
+      <li><span>3</span>
+        <p>安装完成后,</p>
+        <p> <a href="javascript:;">信任企业级应用</a>，即可使用！</p>
+      </li>
+    </ul>
+  </div>
+  <div style="width: 4.72rem; height: 1rem;position: absolute; left: 50%; transform: translateX(-50%);z-index: 99;"> <a href="javascript:;"><img class="lazyload" theme-src="a7.png" style="height:100%"></a> </div>
+</div>
+<div class="banner">
+  <div class="swiper-container swiper-container-horizontal">
+    <div class="swiper-wrapper" style="transition-duration: 0ms; transform: translate3d(-2250px, 0px, 0px);">
+      <div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="4" style="width: 750px;"><a><img class="lazyload" theme-src="banner7.png"></a></div>
+      <div class="swiper-slide" data-swiper-slide-index="0" style="width: 750px;"><a><img class="lazyload" special-src="banner1.jpg"></a></div>
+      <div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="1" style="width: 750px;"><a><img class="lazyload" special-src="banner4.jpg"></a></div>
+      <div class="swiper-slide swiper-slide-active" data-swiper-slide-index="2" style="width: 750px;"><a><img class="lazyload" special-src="banner5.jpg"></a></div>
+      <div class="swiper-slide swiper-slide-next" data-swiper-slide-index="3" style="width: 750px;"><a><img class="lazyload" special-src="banner6.jpg"></a></div>
+      <div class="swiper-slide" data-swiper-slide-index="4" style="width: 750px;"><a><img class="lazyload" special-src="banner7.jpg"></a></div>
+      <div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="0" style="width: 750px;"><a><img class="lazyload" special-src="banner1.jpg"></a></div>
+    </div>
+    <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+</div>
+<div class="inroduce">
+  <div class="gameIcon"> <a><img class="lazyload" special-src="icon1.png"></a> </div>
+  <div class="gameText">
+    <h2>易发棋牌</h2>
+    <p>品牌信誉-首选易发棋牌，最具公信力的棋牌公司、更有高质量的游戏平台、打造在线棋牌第一品牌。</p>
+    <span>热度 500万+ 人已下载</span> </div>
+</div>
+<div class="gameCode"> <a>去评分</a> </div>
+<div class="menuList">
+  <ul>
+    <li> <a><img class="lazyload" theme-src="icon2.png">游戏首页</a> </li>
+    <li> <a class="resignB"> <img class="lazyload" theme-src="icon3.png">注册送钱</a> </li>
+    <li><a><img class="lazyload" theme-src="icon4.png">下载</a></li>
+    <li><a class="share"><img class="lazyload" theme-src="icon5.png">分享</a></li>
+  </ul>
+</div>
+<br id="h12">
+<div class="downBtn"> <a href="javascript:;" class="myd_btn android_down" onclick="downloadGame(1)"><img class="lazyload" theme-src="a7.gif"></a>  <a href="javascript:;" class="myd_btn" onclick="downloadGame(2)"><img class="lazyload" theme-src="a7_2.gif" ></a> </div>
+<div style=" clear:both"></div>
+<div id="H5_2" class="nextBar" style="">
+  <p>点击下载最新APP：易发棋牌</p>
+</div>
+
+<div class="gameRep">
+  <div class="textTit lines">
+    <p>游戏推荐</p>
+    <a>更多 &gt;</a> </div>
+  <ul>
+    <li> <a> <img class="lazyload" theme-src="g1.png">
+      <h2>真人视讯</h2>
+      <p>立即下载</p>
+      </a> </li>
+    <li> <a> <img class="lazyload" theme-src="g2.png">
+      <h2>棋牌游戏</h2>
+      <p>立即下载</p>
+      </a> </li>
+    <li> <a> <img class="lazyload" theme-src="g3.png">
+      <h2>捕鱼游戏</h2>
+      <p>立即下载</p>
+      </a> </li>
+    <li> <a> <img class="lazyload" theme-src="g4.png">
+      <h2>电子游戏</h2>
+      <p>立即下载</p>
+      </a> </li>
+    <li> <a> <img class="lazyload" theme-src="g5.png">
+      <h2>体育投注</h2>
+      <p>立即下载</p>
+      </a> </li>
+    <li> <a> <img class="lazyload" theme-src="g6.png">
+      <h2>百人牛牛</h2>
+      <p>立即下载</p>
+      </a> </li>
+  </ul>
+</div>
+<div class="gameHot">
+  <div class="textTit lines">
+    <p>热门游戏</p>
+    <a>更多 ></a> </div>
+  <div class="swiper-container">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide"> <a> <img class="lazyload" theme-src="game1.png">
+        <h2>抢庄牛牛</h2>
+        <p>立即下载</p>
+        </a> </div>
+      <div class="swiper-slide"> <a> <img class="lazyload" theme-src="game2.png">
+        <h2>炸金花</h2>
+        <p>立即下载</p>
+        </a> </div>
+      <div class="swiper-slide"> <a> <img class="lazyload" theme-src="game3.png">
+        <h2>百家乐</h2>
+        <p>立即下载</p>
+        </a> </div>
+      <div class="swiper-slide"> <a> <img class="lazyload" theme-src="game4.png">
+        <h2>金蟾捕鱼</h2>
+        <p>立即下载</p>
+        </a> </div>
+      <div class="swiper-slide"> <a> <img class="lazyload" theme-src="game5.png">
+        <h2>极速红包</h2>
+        <p>立即下载</p>
+        </a> </div>
+      <div class="swiper-slide"> <a> <img class="lazyload" theme-src="game6.png">
+        <h2>通比梭哈</h2>
+        <p>立即下载</p>
+        </a> </div>
+      <div class="swiper-slide"> <a> <img class="lazyload" theme-src="game7.png">
+        <h2>龙虎大战</h2>
+        <p>立即下载</p>
+        </a> </div>
+      <div class="swiper-slide"> <a> <img class="lazyload" theme-src="game8.png">
+        <h2>德州扑克</h2>
+        <p>立即下载</p>
+        </a> </div>
+    </div>
+  </div>
+</div>
+<div class="gameTj"> <img class="lazyload" theme-src="a_55.jpg"> </div>
+<div class="hotTalk">
+  <div class="hotTalkTit">
+    <p>热门评论</p>
+    <span>6543</span> </div>
+  <div class="talkBar">
+    <div class="talkIcon"> <img class="lazyload" theme-src="a_59.png"> </div>
+    <div class="talkTxt">
+      <div class="userCz">
+        <div class="name">乱世佳人</div>
+        <span class="leave"><img class="lazyload" theme-src="a_65.png"></span> <a class="zan">208</a> <a class="answer">回复</a> </div>
+      <div class="date"> 05月12日 </div>
+      <div class="taleInfor"> <span>热评</span>游戏很多,闲暇时光玩玩挺不错的,支持支持.... </div>
+      <div class="answ"> <span>多啦A梦：</span>是的，真的很好玩呢！ </div>
+    </div>
+  </div>
+  <div class="talkBar">
+    <div class="talkIcon"> <img class="lazyload" theme-src="a_77.png"> </div>
+    <div class="talkTxt">
+      <div class="userCz">
+        <div class="name">风中的男子</div>
+        <span class="leave"><img class="lazyload" theme-src="a_65.png"></span> <a href="#" class="zan">541</a> <a href="#" class="answer">回复</a> </div>
+      <div class="date"> 05月17日 </div>
+      <div class="taleInfor"> <span>热评</span>游戏不错~出款也很快,很专业 </div>
+      <div class="answ"> <span>玩的太过瘾：</span>是的，一款不错的游戏！很适合锻炼灵活性！ </div>
+    </div>
+  </div>
+  <div class="talkBar">
+    <div class="talkIcon"> <img class="lazyload" theme-src="a_60.png"> </div>
+    <div class="talkTxt">
+      <div class="userCz">
+        <div class="name">小石头</div>
+        <span class="leave"><img class="lazyload" theme-src="a_65.png"></span> <a href="" class="zan">98</a> <a href="" class="answer">回复</a> </div>
+      <div class="date"> 05月12日 </div>
+      <div class="taleInfor"> <span>热评</span>棋牌现金抢红包游戏玩的很刺激，我用过好多这类的斗地主了，再接再厉，软件太好玩了. </div>
+      <div class="answ"> <span>喵喵天：</span>我也有在玩，已经赚了不少了！ </div>
+    </div>
+  </div>
+  <div class="talkBar">
+    <div class="talkIcon"> <img class="lazyload" theme-src="a_61.png"> </div>
+    <div class="talkTxt">
+      <div class="userCz">
+        <div class="name">漂流过海去看你</div>
+        <span class="leave"><img class="lazyload" theme-src="a_65.png"></span> <a href="" class="zan">120</a> <a href="" class="answer">回复</a> </div>
+      <div class="date"> 05月10日 </div>
+      <div class="taleInfor"> <span>热评</span>游戏很多,很不错. </div>
+      <div class="answ"> <span>的猫lh着哭：</span>游戏质量很高！ </div>
+    </div>
+  </div>
+</div>
+<div class="shareBar">
+  <ul>
+    <li><a><img class="lazyload" theme-src="s_03.jpg">
+      <p>微信</p>
+      </a></li>
+    <li><a><img class="lazyload" theme-src="s_05.jpg">
+      <p>微信朋友圈</p>
+      </a></li>
+    <li><a><img class="lazyload" theme-src="s_07.jpg">
+      <p>QQ</p>
+      </a></li>
+    <li><a><img class="lazyload" theme-src="s_09.jpg">
+      <p>QQ空间</p>
+      </a></li>
+    <li><a><img class="lazyload" theme-src="s_15.jpg">
+      <p>复制链接</p>
+      </a></li>
+  </ul>
+  <span class="close">取消</span> </div>
+<a id="online_service" class="onlineBtn"> <img class="lazyload" theme-src="kf.png"> </a>
+<div class="talkBox">
+  <div class="sendBar"> <a href="" class="userIcon"></a>
+    <input type="text" placeholder="理性的讨论会被更多人认同哦">
+    <a class="subBtn">发表</a> </div>
+</div>
+<div id="screen"></div>
+<div id="loadImg" style="display: none;"><img class="lazyload" theme-src="timg.gif"></div>
+<div id="alterDiv" class="altBox" style="display: none;">
+  <div class="altBar"> <img class="lazyload" theme-src="1.gif" class="downImg">
+    <div class="downInfor">
+      <h2>APP正在下载</h2>
+      <img class="lazyload" theme-src="2.gif" class="loadImg"> <a href="https://www.116qp999.com:8443/" class="backBtn">请返回桌面查看</a>
+      <p class="noticeTxt">下载完成后<span>设置信任即可使用</span></p>
+      <span class="arr"></span> <a href="" class="how"></a> </div>
+  </div>
+  <span class="closeBtn"></span> </div>
+
+  <div class="toast-message">
+    <div id="close-message">安装包准备中...<div></span>
+  </div>

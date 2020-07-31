@@ -1,0 +1,12 @@
+{
+    "css": [
+        "swiper-4.2.6.min",
+        "layout"
+    ],
+    "js": [
+        "jquery.min_1.8",
+        "swiper-4.2.6.min",
+        "script",
+        "pub"
+    ]
+}

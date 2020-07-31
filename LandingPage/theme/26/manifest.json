@@ -1,0 +1,14 @@
+{
+    "css": [
+        "main",
+        "page1",
+        "jiaocheng"
+    ],
+    "js": [
+        "jquery",
+        "main",
+        "util",
+        "pub",
+        "script"
+    ]
+}

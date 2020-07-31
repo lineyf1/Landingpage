@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+
+<head>
+  <meta charset="utf-8">
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>棋牌工具</title>
+	<meta name="keywords" content="棋牌">
+	<meta name="description" content="棋牌">
+	<meta name="viewport"
+		content="width=device-width, initial-scale=1, user-scalable=0, maximum-scale=1, minimum-scale=1">
+  <meta http-equiv="Pragma" content="no-cache" />
+  <meta http-equiv="Cache-Control" content="no-cache" />
+  <meta http-equiv="Expires" content="0" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+  <link rel="stylesheet" href="./css/reset.css?ver=20200118_2">
+  <link rel="stylesheet" href="./css/index.css?ver=20200118_2">
+  <script src="../setting/setting.js"?ver=20200216_5></script>
+  <script src="../theme/handler.js?ver=20200216_5"></script>
+  <script src="js/rem.js?ver=20200118_2"></script>
+  <script src="js/bscroll.min.js?ver=20200118_2"></script>
+</head>
+
+<body>
+  <div class="wrap">
+    <div class="banner">
+      <img src="images/whjx-banner.jpg">
+    </div>
+    <header>
+      <div class="header_info">
+        <div class="info_pic">
+          <img id="logo" >
+        </div>
+        <div class="info_text">
+          <h2 id="app_name">棋牌工具</h2>
+          <ul>
+            <li>
+              <img src="images/2.png">
+              <span id="download_count">14.35萬</span>
+            </li>
+            <li>
+              <img src="images/3.png">
+              <span>IOS/Android</span>
+            </li>
+            <li>
+              <img src="images/4.png">
+              <span id="app_version">v2.02</span>
+            </li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="btn_group btn_group2">
+        <div class="btn_item">
+          <button id="download_btn" onclick="down()" class="iosMask"><a><img class="iconDown"
+                src="images/2_1.png">修复工具下载</a></button>
+        </div>
+      </div>
+      <div class="header_remarks">
+        <div class="remarks_rating">
+          <h3>
+            <span id="grade">4.9</span>
+            <img src="images/start.png">
+          </h3>
+          <p id="grade_person_count">87603人评分</p>
+        </div>
+        <div class="remarks_info">
+          <div class="remarks_info_item">
+            <h3><span>#</span>1</h3>
+            <p>娱乐</p>
+          </div>
+          <div class="remarks_info_item">
+            <h3>18<span>+</span></h3>
+            <p>年龄</p>
+          </div>
+        </div>
+      </div>
+    </header>
+    <div class="introduce">
+      <h3>【应用介绍】</h3>
+      <p>
+        想要在牌局中一展身手，却遇到APP无法打开？闪退？无法信任设备？让您无法施展高超的牌技，扰了兴致。我们深知此问题给您带来了不小的困扰，所以痛下决心要为广大会员创造更好的游戏体验。现在由<span id="introduce_name"></span>专业技术团队开发的此款APP修复工具能更好的为您解决这些问题，在您无法打开APP或APP升级维护时打开修复工具，重新下载最新版APP即可登陆畅玩。一次下载，永久使用。
+      </p>
+
+      <h3 style="margin-top: 20px;">主要功能：</h3>
+      <p>
+        <span>1.APP升级/更新/修复 <br>
+          2.快速访问优惠大厅 <br>
+          3.快速访问网页版登陆</span>
+      </p>
+    </div>
+    <div class="btn_group">
+      <div class="btn_item">
+        <button id="app_home" onclick="home()"><a class="gohome">进入网页版</a></button>
+      </div>
+      <div class="btn_item">
+        <a class="kf_link" onclick="online()"><img
+            src="images/kf.png">在线客服</a>
+        <span class="look">查看安装引导</span>
+      </div>
+    </div>
+    <div class="install">
+      <div class="install_title">
+        <h4>安装教程</h4>
+        <span class="close" style="font-size: .5rem;">×</span>
+      </div>
+      <div id="iosafter" class="wrapper">
+        <ul class="content">
+          <li>
+            <img src="images/before_12_step/1.png" class="img_01">
+            <p>点击下载APP后，选择<span>【允许】</span></p>
+          </li>
+          <li>
+            <img src="images/before_12_step/2.png" class="img_01">
+            <p>描述文件下载，点击<span>【关闭】</span></p>
+          </li>
+          <li>
+            <img src="images/before_12_step/3.png" class="img_01">
+            <p>进入桌面，点击<span>【设置】</span></p>
+          </li>
+          <li>
+            <img src="images/before_12_step/4.png" class="img_01">
+            <p>在设置里选择<span>【已下载描述文件】</span></p>
+          </li>
+          <li>
+            <img src="images/before_12_step/5.png" class="img_01">
+            <p>在描述文件中点击<span>【安装】</span></p>
+          </li>
+          <li>
+            <img src="images/before_12_step/6.png" class="img_01">
+            <p>安装开始前需要<span>输入解锁密码</span>,（无密码忽略此步骤）</p>
+          </li>
+          <li>
+            <img src="images/before_12_step/7.png" class="img_01">
+            <p>点击<span>【下一步】</span></p>
+          </li>
+          <li>
+            <img src="images/before_12_step/8.png" class="img_01">
+            <p>最后点击<span>【安装】</span>即可</p>
+          </li>
+          <li>
+            <img src="images/before_12_step/9.png" class="img_01">
+            <p>安装完成，返回桌面</p>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="ios_mask" style="display:none">
+      <img id="license_step_img1" src="images/mask.png" style="display: none">
+      <img id="license_step_img2" src="images/mask2.png" style="display: none">
+      <button class="closeMask" style="color: red;">2:证书已安装·下一步</button>
+    </div>
+
+    <div id="open_safari">
+      <div class="w640 ios_show" style="display: block;">
+        <p>
+          1.该浏览器客户端内无法下载，请复制以下网址到苹果浏览器safari打开
+        </p>
+        <p>
+          <a id="copyBtn" onclick="clipboardurl()"><img src="images/copy_btn.png" alt=""></a>
+        </p>
+        <p>2.打开苹果safari浏览器，粘贴并前往后即可下载</p>
+        <p class="safari_info"><img src="images/safari.png" alt=""></p>
+        <p>
+          <a style="max-width: 8vw;display: block;margin: 0px auto"  id="closeBtn"><img
+              src="images/close_btn.png" alt=""></a>
+        </p>
+      </div>
+    </div>
+ 
+  </div>   
+
+  <script src="./js/zepto.min.js?ver=20200118_2"></script>
+  <script src="./js/index.js?ver=20200118_2"></script>
+</body>
+
+</html>

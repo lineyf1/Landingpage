@@ -1,0 +1,127 @@
+
+body {
+	margin: 0 auto;
+max-width:720px;
+
+}
+img {
+	outline-width: 0px;
+	vertical-align: top;
+}
+.d_down {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+right:0;
+	width: 100%;
+max-width:720px;
+margin:0 auto;
+	height: 1.8rem;
+	background: rgba(255, 255, 255, 0.77);
+}
+.down_ico {
+	margin: 0.25rem 0.08rem;
+	width: 1.2rem;
+	float: left;
+	height: auto;
+}
+.ico_img {
+	height: 1.3rem;
+	width: 1.3rem;
+}
+.down_ico img {
+	width: 100%;
+	height: 100%;
+}
+.down_title {
+	width: 2.8rem;
+	float: left;
+	height: 100%;
+}
+
+.titleh3 {
+	margin-top: 0.3rem;
+	font-size: 0.5rem;
+}
+.titlespan {
+	font-size: 0.3rem;
+}
+.gobotton {
+	display: block;
+	width: 2.3rem;
+	height: 1rem;
+	line-height: 1rem;
+	background: #43c117;
+	color: #fff;
+	text-align: center;
+	font-size: 0.42rem;
+	border-radius: 0.08rem;
+	position: absolute;
+	top: 0.4rem;
+	right: 0.2rem;
+}
+
+.not_down {
+	filter: alpha(opacity=60);
+	background-color: #000;
+	opacity: 0.6;
+	-moz-opacity: 0.6;
+	width: 100%;
+	height: 100%;
+}
+.not_down_body {
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	display: none;
+	z-index: 10001;
+	width: 100%;
+	height: 100%;
+}
+.not_down_img {
+	position: fixed;
+	width: 90%;
+	left: 5%;
+	top: 40%;
+	z-index: 10002;
+}
+.not_down_img img {
+	width: 100%;
+}
+#uc_recommend_ad {
+	display: none !important;
+}
+ .kf_img{
+			position: fixed;
+			right: 3%;
+			top: 20%;
+			width: 1.6rem;
+	}
+	.kf_img img{
+			width: 100%;
+			height: 100%;
+	}
+
+.button {
+
+ float:right;
+ margin-top:.32rem;
+ display:inline
+}
+.button a {
+	float: left;
+	display: inline;
+	margin-right: .08rem;
+}
+.button button {
+	display: block;
+	width: 2.56rem;
+	height: 1.2rem;
+	background-color: #43c117;
+	border-radius: 0.08rem;
+	border: none;
+	font-size: 0.4rem;
+	color: #fff;
+}
+.toast-message {position:fixed;left:50%;  max-width:720px;top:50%;text-align:center;transform:translateX(-50%);width:90%;transition:top .3s ease-out;opacity .3s ease-out;padding:45px 45px 45px 50px;z-index:2000; color:#fff;background:rgba(0,0,0,.6);display: none;}
+#close-message {color:#fef590; font-weight:bold;font-size:32px;}

@@ -1,0 +1,12 @@
+{
+    "css": [
+    	"style",
+    	"resive"
+
+    ],
+    "js": [
+        "jquery.min_1.8",
+        "main",
+        "pub"
+    ]
+}

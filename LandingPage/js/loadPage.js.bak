@@ -1,0 +1,112 @@
+var myTheme = setting[hostname].theme || themeName;
+
+var defaultJS = ['lazysizes.min', 'fingerprint2', 'ls.bgset.min', 'default'];
+var manifest;
+
+function get(url) {
+    return new Promise(function (succeed, fail) {
+        var req = new XMLHttpRequest();
+        req.open('GET', 'theme/' + myTheme + '/' + url + '?ver=' + ver, true);
+        req.addEventListener('load', function () {
+            if (req.status < 400)
+                succeed(req.responseText);
+            else
+                fail(new Error('Request failed: ' + req.statusText));
+        });
+        req.addEventListener('error', function () {
+            fail(new Error('Network error'));
+        });
+        req.send(null);
+    });
+}
+
+function addManifest(data) {
+    manifest = JSON.parse(data);
+
+    for (var index = 0; index < manifest.css.length; index++) {
+        loadCss(manifest.css[index]);
+    }
+
+
+
+    for (var index = 0; index < defaultJS.length; index++) {
+        loadScript(defaultJS[index], true);
+    }
+
+    for (var index = 0; index < manifest.js.length; index++) {
+        loadScript(manifest.js[index]);
+    }
+
+
+
+}
+
+function loadCss(n) {
+    var l = document.createElement('link');
+    l.rel = 'stylesheet';
+    l.href = 'theme/' + myTheme + '/css/' + n + '.css?ver=' + ver;
+    document.head.appendChild(l);
+}
+
+function loadScript(n, isDefault) {
+    var jsPath = isDefault ? '' : 'theme/' + myTheme + '/';
+    var s = document.createElement('script');
+    s.async = false;
+    s.src = jsPath + 'js/' + n + '.js?ver=' + ver;
+    document.head.appendChild(s);
+}
+
+function imgSet(myImg, getAgrs) {
+    var imgFor = getAgrs.imgFor;
+    var imgType = getAgrs.imgType;
+    var imgFolder = getAgrs.imgFolder;
+    var getStr = imgFor + '-' + imgType;
+    var setStr = 'data-' + imgType;
+    var currentSrc = imgFor + '/' + imgFolder + '/' + myImg.getAttribute(getStr) + '?ver=' + ver;
+
+    myImg.setAttribute(setStr, currentSrc);
+    myImg.removeAttribute(getStr);
+}
+
+function imgFilter(myImg) {
+
+    var imgFor = ['theme', 'special'];
+    var imgType = ['src', 'bg'];
+
+    var getAgrs = function (a, b) {
+        var imgFolder = a == 0 ? myTheme + '/images' : hostname + '/' + myTheme;
+        return { imgFor: imgFor[a], imgType: imgType[b], imgFolder: imgFolder };
+
+    }
+
+    if (myImg.hasAttribute(imgFor[0] + '-' + imgType[0])) {
+        imgSet(myImg, getAgrs(0, 0));
+    }
+    else if (myImg.hasAttribute(imgFor[0] + '-' + imgType[1])) {
+        imgSet(myImg, getAgrs(0, 1));
+    }
+    else if (myImg.hasAttribute(imgFor[1] + '-' + imgType[0])) {
+        imgSet(myImg, getAgrs(1, 0));
+    }
+    else if (myImg.hasAttribute(imgFor[1] + '-' + imgType[1])) {
+        imgSet(myImg, getAgrs(1, 1));
+    }
+
+}
+
+function addHtml(data) {
+    document.body.innerHTML = data;
+    var imgs = document.getElementsByClassName('lazyload');
+
+    for (var i = 0; i < imgs.length; i++) {
+        var myImg = imgs[i];
+        imgFilter(myImg);
+
+    }
+
+    get('manifest.json').then(addManifest);
+}
+
+function loadPage() {
+    get('index.html').then(addHtml);
+}

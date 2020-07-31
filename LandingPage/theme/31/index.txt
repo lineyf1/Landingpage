@@ -1,0 +1,50 @@
+<div class="main">
+  <div class="bg1 lazyload" special-bg="bg1.jpg">
+    <a class="down">
+      <img class="lazyload" theme-src="down.png" />
+    </a>
+    <a class="down down2 myd_btn android_down">
+      <img id="android_own" onclick="install()" theme-src="install_btn.png" class="android_down lazyload"/>
+    </a>
+  </div>
+  <div class="bg2 lazyload" theme-bg="bg2.jpg">
+    <div class="itemList"> <a class="item"> <img class="lazyload" theme-src="1.png" /></a> <a class="item"> <img class="lazyload" theme-src="2.png" /></a> <a class="item"> <img class="lazyload" theme-src="3.png" /></a> <a class="item"> <img class="lazyload" theme-src="4.png" /></a> <a class="item"> <img class="lazyload" theme-src="5.png" /></a> <a class="item"> <img class="lazyload" theme-src="6.png" /></a> <a class="item"> <img class="lazyload" theme-src="7.png" /></a> <a class="item"> <img class="lazyload" theme-src="8.png" /></a> <a class="item"> <img class="lazyload" theme-src="9.png" /></a> <a class="item"> <img class="lazyload" theme-src="10.png" /></a> <a class="item"> <img class="lazyload" theme-src="11.png" /></a> <a class="item"> <img class="lazyload" theme-src="12.png" /></a> <a class="item"> <img class="lazyload" theme-src="13.png" /></a> <a class="item"> <img class="lazyload" theme-src="14.png" /></a> <a class="item"> <img class="lazyload" theme-src="15.png" /></a> <a class="item"> <img class="lazyload" theme-src="16.png" /></a> <a class="item"> <img class="lazyload" theme-src="17.png" /></a> <a class="item"> <img class="lazyload" theme-src="18.png" /></a> <a class="item"> <img class="lazyload" theme-src="19.png" /></a> <a class="item"> <img class="lazyload" theme-src="20.png" /></a> <a class="item"> <img class="lazyload" theme-src="21.png" /></a> <a class="item"> <img class="lazyload" theme-src="22.png" /></a> <a class="item"> <img class="lazyload" theme-src="23.png" /></a> <a class="item"> <img class="lazyload" theme-src="24.png" /></a> <a class="item"> <img class="lazyload" theme-src="25.png" /></a> <a class="item"> <img class="lazyload" theme-src="26.png" /></a> <a class="item"> <img class="lazyload" theme-src="27.png" /></a> <a class="item"> <img class="lazyload" theme-src="28.png" /></a> <a class="item"> <img class="lazyload" theme-src="29.png" /></a> <a class="item"> <img class="lazyload" theme-src="30.png" /></a> </div>
+  </div>
+  <div class="bg3 lazyload" theme-bg="bg3.jpg"> <img class="lazyload" theme-src="bg3.jpg" /> </div>
+</div>
+<footer> <div class="icon"> <img class="lazyload" special-src="down1.png"  /></div>
+  <div class="download">
+  <a class="myd_btn" href="javascript:void(0)" onclick="downloadGame(2)"> <img class="lazyload" theme-src="down_btn.png" /></a><a class="myd_btn android_down" href="javascript:void(0)" onclick="downloadGame(1)"> <img class="lazyload" theme-src="down_btn2.png" /></a>
+  </div>
+</footer>
+<a id="online_service" class="kf"> <img class="lazyload" theme-src="kf.png" /></a>
+<div class="window_log2" style="display: none;">
+  <div>
+    <div class="installTitle">
+      <div>安卓报毒解决办法</div>
+      <div onclick="cancelInstall()">x</div>
+    </div>
+    <div class="installList">
+      <ul class="window_hint2">
+        <li> <img class="lazyload" theme-src="install_1.png" alt="加载失败">
+          <p>1.	打开桌面“设置”菜单</p>
+        </li>
+        <li> <img class="lazyload" theme-src="install_2.png" alt="加载失败">
+          <p>2.	选择“安全与隐私”进行设置</p>
+        </li>
+        <li> <img class="lazyload" theme-src="install_3.png" alt="加载失败">
+          <p>3.	选择“更多安全设置”</p>
+        </li>
+        <li> <img class="lazyload" theme-src="install_4.png" alt="加载失败">
+          <p>4.	在“禁止安装恶意应用出”选择关闭</p>
+        </li>
+        <li> <img class="lazyload" theme-src="install_5.png" alt="加载失败">
+          <p>5.	弹出提示，选择“关闭”</p>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="toast-message">
+  <div id="close-message">安装包准备中...<div></span>
+</div>

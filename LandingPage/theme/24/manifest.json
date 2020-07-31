@@ -1,0 +1,12 @@
+{
+    "css": [
+            "1",
+            "style",
+            "jiaocheng"
+    ],
+    "js": [
+            "jquery-2.1.4",
+            "pub",
+            "script"
+    ]
+}

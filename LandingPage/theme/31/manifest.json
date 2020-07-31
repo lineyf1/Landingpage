@@ -1,0 +1,11 @@
+{
+        "css": [
+                "style",
+                "jiaocheng"
+        ],
+        "js": [
+                "jquery-2.1.4",
+                "respond.min",
+                "script"
+        ]
+}

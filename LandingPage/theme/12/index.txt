@@ -1,0 +1,73 @@
+<div class="content">
+  <div class="max_width" >
+    <div class="banner">
+      <a class="down">
+        <img class="lazyload" onclick="install()" special-src="1.jpg" alt="" />
+        <img class="lazyload" theme-src="2.jpg" alt="" />
+        <img class="lazyload" theme-src="3.jpg" alt="" />
+        <img class="lazyload" theme-src="4.jpg" alt="" />
+        <img class="lazyload" theme-src="5.jpg" alt="" />
+        <img class="lazyload" theme-src="6.jpg" alt="" />
+        <img class="lazyload" theme-src="7.jpg" alt="" />
+      </a>
+    </div>
+    <div class="d_down">
+      <div class="down_ico">
+      <div class="ico_img"> <img class="lazyload" special-src="icon.png" alt=""> </div>
+      </div>
+      <div class="down_title">
+      <div class="titleh3">王牌国际</div>
+      <div class="titlespan">少妇云集，好玩刺激</div>
+      </div>
+      <p class="button"> <a onclick="downloadGame(1)" target="_blank" class="downloadButton myd_btn android_down" style="text-decoration:none">
+      <button type="button">安卓下载</button>
+      </a> <a onclick="downloadGame(2)" target="_blank" class="downloadButton myd_btn" style="text-decoration:none">
+      <button type="button">ios下载</button>
+      </a> </p>
+    </div>
+    <div class="not_down_body">
+      <div class="not_down"> </div>
+      <div class="not_down_img"><img class="lazyload" theme-src="no_down_copy.png"></div>
+    </div>
+    <div class="guid max_width" style="display: none;">
+      <div class="guid-1"> <img class="lazyload" theme-src="guid-1.png" alt=""> <img class="lazyload" theme-src="guid-close.png" class="guid-close" alt=""> </div>
+      <div class="guid-2"> <img class="lazyload" theme-src="guid-2.png" alt=""> </div>
+      <div class="guid-bottom">
+        <div class="guid-3"> <img class="lazyload" theme-src="guid-3.png" alt=""> </div>
+        <div class="guid-4"> <img class="lazyload" theme-src="guid-4.gif" alt=""> </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div  class="kf_img"> <a target="_blank" id="online_service"> <img class="lazyload" theme-src="kf.png"></a> </div>
+<div class="toast-message">
+	<div id="close-message">安装包准备中...</div>
+</div>
+
+<div class="window_log2" style="display: none;">
+	<div>
+		<div class="installTitle">
+			<div>安卓报毒解决办法</div>
+			<div onclick="cancelInstall()">x</div>
+		</div>
+		<div class="installList">
+			<ul class="window_hint2">
+				<li> <img class="lazyload" theme-src="install_1.png" alt="加载失败">
+					<p>1.	打开桌面“设置”菜单</p>
+				</li>
+				<li> <img class="lazyload" theme-src="install_2.png" alt="加载失败">
+					<p>2.	选择“安全与隐私”进行设置</p>
+				</li>
+				<li> <img class="lazyload" theme-src="install_3.png" alt="加载失败">
+					<p>3.	选择“更多安全设置”</p>
+				</li>
+				<li> <img class="lazyload" theme-src="install_4.png" alt="加载失败">
+					<p>4.	在“禁止安装恶意应用出”选择关闭</p>
+				</li>
+				<li> <img class="lazyload" theme-src="install_5.png" alt="加载失败">
+					<p>5.	弹出提示，选择“关闭”</p>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>

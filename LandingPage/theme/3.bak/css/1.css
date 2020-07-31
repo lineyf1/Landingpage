@@ -1,0 +1,123 @@
+.nav {
+  width: 100%;
+  height: 5.5rem;
+}
+.nav .nav_img {
+  height: 1.13rem;
+}
+.nav .nav_img img {
+  width: 100%;
+  height: 100%;
+}
+.gamelist {
+  margin-top: -0.01rem;
+  overflow: hidden;
+  height: 4.37rem;
+  background: url(../images/bg.jpg) no-repeat;
+  background-size: 100%;
+  padding: 0 0.23rem;
+}
+.gamelist ul {
+  margin-top: 0.11rem;
+  height: 4.2rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.gamelist ul li {
+  width: 1.64rem;
+  height: 2.04rem;
+}
+.gamelist ul li a {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+.gamelist ul li a img {
+  width: 100%;
+  height: 100%;
+}
+.game_banner {
+  position: relative;
+  margin-top: -0.1rem;
+  width: 100%;
+  height: 2.5rem;
+  background: url(../images/bg1_02_01.jpg) no-repeat;
+  background-size: 100%;
+}
+.game_banner .game_banner_content {
+  position: absolute;
+  top: 0.26rem;
+  left: 2.85rem;
+}
+.game_banner .game_banner_content h1 {
+  font-size: 0.48rem;
+  color: #fff;
+}
+.game_banner .game_banner_content p {
+  position: relative;
+  font-size: 0.24rem;
+  color: #fff;
+}
+.game_banner .game_banner_content p i {
+  color: #f6ff00;
+  font-size: 0.36rem;
+}
+.game_banner .game_banner_content p em {
+  color: #f6ff00;
+  font-size: 0.24rem;
+}
+.game_banner .game_banner_content .icon {
+  position: absolute;
+  bottom: 0;
+  right: -0.2rem;
+  width: 1.98rem;
+  height: 0.32rem;
+}
+.game_banner .game_banner_content .icon img {
+  width: 100%;
+  height: 100%;
+}
+.game_introduce {
+  overflow: hidden;
+  width: 100%;
+  height: auto;
+  background: url(../images/bg2_02.jpg) no-repeat;
+  background-size: 100%;
+}
+.game_introduce .introduce_box {
+  position: relative;
+  padding: 0 0.35rem;
+}
+.game_introduce .introduce_box ul {
+  height: 11.83rem;
+}
+.game_introduce .introduce_box ul li {
+  display: flex;
+  justify-content: space-around;
+  height: 2.32rem;
+  color: #fff;
+  margin-bottom: 0.05rem;
+}
+.game_introduce .introduce_box ul li img {
+  height: 100%;
+}
+/* 底部 */
+.footer {
+  margin-top: -0.07rem;
+}
+.footer .footer_top {
+  height: 5.21rem;
+}
+.footer .footer_top img {
+  width: 100%;
+  height: 100%;
+}
+.footer .footer_end {
+  margin-top: -0.02rem;
+  height: 4.94rem;
+}
+.footer .footer_end img {
+  width: 100%;
+  height: 100%;
+}

@@ -1,0 +1,12 @@
+{
+    "css": [
+            "style"
+    ],
+    "js": [
+            "clipboard.min",
+            "home",
+            "jquery",
+            "main",
+            "pub_rem"
+    ]
+}
